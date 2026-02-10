@@ -31,6 +31,7 @@ L'artiste a procuré beaucoup d'images que l'IA utilise comme projection. L'imag
 - Casque EEG
 - Alimentation électrique
 - Logiciel goofi-pipe
+
 On peut voir la mise en place de ces équipements avec mon croquis ci-dessous.
 
 ### Expérience vécue
