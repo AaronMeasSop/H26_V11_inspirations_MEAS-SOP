@@ -31,6 +31,7 @@ L'artiste a procuré beaucoup d'images que l'IA utilise comme projection. L'imag
 - Casque EEG
 - Alimentation électrique
 - Logiciel goofi-pipe
+On peut voir la mise en place de ces équipements avec mon croquis ci-dessous.
 
 ### Expérience vécue
 Pour commencer, l'utilisateur porte un casque EEG. Il doit s'asseoir afin d'être en état repos, similaire à la méditation et au sommeil que l'oeuvre vise chercher. Pour qu'il sache qu'il est réellement dans cet état, le visiteur peut voir que ses ondes sont stables sur un écran qui démontrent ces données. L'image qu'il pourra voir change selon ce qu'il ressent émotionellement. S'il est plus actif ou stressé, ses ondes seront plus mouvementées et l'image qui sera mis sur le mur changera selon cela.
