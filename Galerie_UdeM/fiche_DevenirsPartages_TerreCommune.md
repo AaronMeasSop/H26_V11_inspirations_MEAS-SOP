@@ -29,8 +29,8 @@ Composante et technique
 - Alimentation électrique
 - Logiciel goofi-pipe
 
-Experience vecue
-- En portant le casque, on peut voir les ondes alphas et betas bouger. En conséquence, l'image qui est projettée change.
+### Expérience vécue
+Pour commencer, l'utilisateur porte un casque EEG. Il doit s'asseoir afin d'être en état repos, similaire à la méditation et au sommeil que l'oeuvre vise chercher. Pour qu'il sache qu'il est réellement 
 
 References (auteur image)
 
