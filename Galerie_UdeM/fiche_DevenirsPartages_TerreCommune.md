@@ -1,3 +1,6 @@
+# TP1 - VISITE DE D'UNE EXPOSITION À LA GALERIE DE L'UNIVERSITÉ DE MONTRÉAL
+
+
 Nom: Devenirs Partagés. Pratiques de l'IA
 
 Lieu: Galerie de l'Université de Montréal
