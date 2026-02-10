@@ -20,7 +20,7 @@ Le tout se fait à l'intérieur à l'aide d'un support sur le plafond pour le pr
 ### Composante et technique
 #### Composante
 L'oeuvre consiste de deux composantes, l'image qui est généré par l'IA et les ondes alphas et betas que le visiteur peut voir durant son expérience. Il n'y a pas d'audio présent. 
-###Technique
+#### Technique
 L'artiste a procuré beaucoup d'images que l'IA utilise comme projection. L'image qui sera présentée est choisie selon les données qu'il lit à partir des ondes de l'utilisateur. Cela est atteint avec le logiciel goofi-pipe pour la conversion de données. On peut voir le processus avec l'image insérée ci-dessous.
 
 ### Éléments necessaires à la mise en exposition
