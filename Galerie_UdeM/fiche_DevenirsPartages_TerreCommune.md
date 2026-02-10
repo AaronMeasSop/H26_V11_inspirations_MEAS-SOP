@@ -1,23 +1,17 @@
-# TP1 - VISITE DE D'UNE EXPOSITION À LA GALERIE DE L'UNIVERSITÉ DE MONTRÉAL
+# TP1 - Visite d'une exposition à la Galerie de l'Université de Montréal
 
+## Exposition - Devenirs Partagés. Pratiques de l'IA
+- **Lieu :** Galerie de l'Université de Montréal
+- **Date :** 29 janvier 2026
+- **Type d'exposition:** Temporaire et intérieur
 
-Nom: Devenirs Partagés. Pratiques de l'IA
+## Oeuvre choisie - Terre-Commune / Common-Ground
+- **Artiste :** Marion Schneider
+- **Date :** Environ 2024
+- **Type d'installation :** Interactive
 
-Lieu: Galerie de l'Université de Montréal
-
-Type: temporaire et interieure
-
-Date: 29 janvier 2026
-
-Titre oeuvre ou dispo: Terre Commune
-
-Nom artiste: Marion Schneider
-
-Annee: Environ 2024
-
-Description oeuvre: L'utilisateur porte un casque EEG pour lire ses ondes cérébrales, ceux liées à la méditation et au sommeil. L'IA de l'oeuvre génère des images de sols forestiers que Marion l'a procuré. Il y a une projecteur qui projette ces images sur un mur blanc. La source de tout cela est un ordinateur qui charge les données en temps réel à l'aide du logiciel Goofy Pipe. L'utilisateur peut voir ses ondes alpha et beta avec un écran qui est mis verticalement sur le sol.
-
-Type installation: Interactive
+### Description
+L'utilisateur porte un casque EEG pour lire ses ondes cérébrales, ceux liées à la méditation et au sommeil. L'IA de l'oeuvre génère des images de sols forestiers que Marion l'a procuré. Il y a une projecteur qui projette ces images sur un mur blanc. La source de tout cela est un ordinateur qui charge les données en temps réel à l'aide du logiciel Goofy Pipe. L'utilisateur peut voir ses ondes alpha et beta avec un écran qui est mis verticalement sur le sol.
 
 Fonction du dispositif multimedia
 - 
