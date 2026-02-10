@@ -15,7 +15,7 @@ L'utilisateur porte un casque EEG pour lire ses ondes cérébrales, ceux liées 
 
 
 ### Mise en espace
-Le tout se fait à l'intérieur à l'aide d'un monture sur le plafond pour le projecteur, d'un mur blanc pour mettre les images par-dessus et d'une source d'alimentation électrique. Il y a un écran qui est mis verticalement sur le sol près du mur. Les ondes et les images sont visible dans le champ de vision de l'utilisateur lorsqu'il fait son expérience. Il y faut aussi une place pour s'asseoir pour simuler la détention. À l'exposition, une table était mise en place au dessus de l'ordinateur pour que l'utilisateur puisse s'asseoir. Il serait possible de le faire à l'extérieur avec la présence d'une chaise, d'une surface pour imposer les images et possiblement une source d'électricité portable. 
+Le tout se fait à l'intérieur à l'aide d'un monture sur le plafond pour le projecteur, d'un mur blanc pour mettre les images par-dessus et d'une source d'alimentation électrique. Il y a un écran qui est mis verticalement sur le sol près du mur. Les ondes et les images sont visibles dans le champ de vision de l'utilisateur lorsqu'il fait son expérience. Il y faut aussi une place pour s'asseoir pour simuler la détention. À l'exposition, une table était mise en place au dessus de l'ordinateur pour que l'utilisateur puisse s'asseoir. Il serait possible de le faire à l'extérieur avec la présence d'une chaise, d'une surface pour imposer les images et possiblement une source d'électricité portable. 
 
 Composante et technique
 - 
