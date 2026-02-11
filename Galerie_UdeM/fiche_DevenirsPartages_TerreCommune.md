@@ -40,16 +40,6 @@ Il y a une longue liste d'équipements dont l'oeuvre utilise, mais voici ceux qu
 - Alimentation électrique
 - Logiciel goofi-pipe
 
-Ensuite, voici ceux qui sont moins visibles durant la visite.
-
-- Extrusions d'aluminium
-- Acrylique
-- Les images que l'artiste a collecté lors de ses balades autour du Lac Forget dans les Laurentides
-- Modéle StyleGAN
-- Logiciel Autolume
-- Logiciel TouchDesigner
-- Logiciel MuseLsl
-
 On peut voir la mise en place de ces
 équipements avec mes croquis ci-dessous.
 
@@ -60,6 +50,17 @@ On peut voir la mise en place de ces
 #### Vue Cavalière
 
 ![Croquis Cavaliere](media/croquis_cavaliere.jpg)
+  
+
+Ensuite, voici ceux qui sont moins visibles durant la visite.
+
+- Extrusions d'aluminium
+- Acrylique
+- Les images que l'artiste a collecté lors de ses balades autour du Lac Forget dans les Laurentides
+- Modéle StyleGAN
+- Logiciel Autolume
+- Logiciel TouchDesigner
+- Logiciel MuseLsl
   
 ---
   
