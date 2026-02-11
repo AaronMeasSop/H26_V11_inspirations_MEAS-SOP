@@ -8,7 +8,9 @@
 ### Trajet de l'exposition
 ![Image de l'exposition complet](media/expo_complete.jpg)
 
-## Oeuvre choisie - Terre-Commune / Common-Ground
+En entrant dans la salle, on peut voir toutes les oeuvres et dispositifs. Il y en a 4 totals. Il faut marcher dans un sens anti horaire durant le parcours. La première oeuvre est Terre Commune par Marion Schneider. 
+
+## Oeuvre choisie - Terre Commune / Common Ground
 - **Artiste :** Marion Schneider
 - **Date :** 2025
 - **Type d'installation :** Interactive
