@@ -30,6 +30,8 @@ L'artiste a procuré beaucoup d'images que l'IA utilise comme projection. L'imag
 ---
   
 ### Éléments necessaires à la mise en exposition
+Il y a une longue liste d'équipements dont l'oeuvre utilise, mais voici ceux qu'on pouvait facilement distinguer.
+
 - Ordinateur
 - Mur blanc
 - Projecteur
@@ -38,7 +40,18 @@ L'artiste a procuré beaucoup d'images que l'IA utilise comme projection. L'imag
 - Alimentation électrique
 - Logiciel goofi-pipe
 
-On peut voir la mise en place de ces équipements avec mes croquis ci-dessous.
+Ensuite, voici ceux qui sont moins visibles durant la visite.
+
+- Extrusions d'aluminium
+- Acrylique
+- Les images que l'artiste a collecté lors de ses balades autour du Lac Forget dans les Laurentides
+- Modéle StyleGAN
+- Logiciel Autolume
+- Logiciel TouchDesigner
+- Logiciel MuseLsl
+
+On peut voir la mise en place de ces
+équipements avec mes croquis ci-dessous.
 
 #### Plan
 
@@ -58,16 +71,5 @@ Pour commencer, l'utilisateur porte un casque EEG. Il doit s'asseoir afin d'êtr
 ## References
 
 [Site web de l'artiste](https://schneidermarion.net)
-
-
-Photo 
-Affiche expo
-Moi devant lentree de ledifice
-Vue ensemble oeuvre ou dispositif
-Vue d'ensemble
-Croquis(oeuvre dans la salle)
-Partie composante de l'oeuvre(comme rideau, mur)
-Parcours du visiteur ou gestes de l'interacteur
-
 
 
