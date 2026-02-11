@@ -7,7 +7,7 @@
 
 ## Oeuvre choisie - Terre-Commune / Common-Ground
 - **Artiste :** Marion Schneider
-- **Date :** Environ 2024
+- **Date :** 2025
 - **Type d'installation :** Interactive
   
 ### Description
@@ -56,6 +56,8 @@ Pour commencer, l'utilisateur porte un casque EEG. Il doit s'asseoir afin d'êtr
 ---
   
 ## References
+
+[Site web de l'artiste](https://schneidermarion.net)
 
 
 Photo 
