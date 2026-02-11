@@ -39,6 +39,12 @@ L'artiste a procuré beaucoup d'images que l'IA utilise comme projection. L'imag
 - Logiciel goofi-pipe
 
 On peut voir la mise en place de ces équipements avec mes croquis ci-dessous.
+
+#### Plan
+
+![Croquis Plan](media)
+
+#### Vue Cavalière
   
 ---
   
