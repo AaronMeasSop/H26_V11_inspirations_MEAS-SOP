@@ -46,7 +46,7 @@ On peut voir la mise en place de ces équipements avec mes croquis ci-dessous.
 
 #### Vue Cavalière
 
-![Croquis Cavaliere](media/croquis/croquis_cavaliere.jpg)
+![Croquis Cavaliere](media/croquis_cavaliere.jpg)
   
 ---
   
