@@ -5,6 +5,9 @@
 - **Date :** 29 janvier 2026
 - **Type d'exposition:** Temporaire et intérieur
 
+###Trajet de l'exposition
+[Image de l'exposition complet](media/expo_complet.jpg)
+
 ## Oeuvre choisie - Terre-Commune / Common-Ground
 - **Artiste :** Marion Schneider
 - **Date :** 2025
