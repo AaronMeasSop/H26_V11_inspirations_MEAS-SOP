@@ -38,7 +38,7 @@ L'artiste a procuré beaucoup d'images que l'IA utilise comme projection. L'imag
 - Alimentation électrique
 - Logiciel goofi-pipe
 
-On peut voir la mise en place de ces équipements avec mon croquis ci-dessous.
+On peut voir la mise en place de ces équipements avec mes croquis ci-dessous.
   
 ---
   
