@@ -6,7 +6,7 @@
 - **Type d'exposition:** Temporaire et intérieur
 
 ###Trajet de l'exposition
-[Image de l'exposition complet](media/expo_complet.jpg)
+![Image de l'exposition complet](media/expo_complet.jpg)
 
 ## Oeuvre choisie - Terre-Commune / Common-Ground
 - **Artiste :** Marion Schneider
