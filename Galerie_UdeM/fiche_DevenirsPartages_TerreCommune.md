@@ -42,9 +42,11 @@ On peut voir la mise en place de ces équipements avec mes croquis ci-dessous.
 
 #### Plan
 
-![Croquis Plan](media)
+![Croquis Plan](media/croquis_plan.jpg)
 
 #### Vue Cavalière
+
+![Croquis Cavaliere](media/croquis/croquis_cavaliere.jpg)
   
 ---
   
