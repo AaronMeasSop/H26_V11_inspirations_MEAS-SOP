@@ -101,7 +101,7 @@ Il y a une longue liste d'équipements dont l'oeuvre utilise, mais voici ceux qu
 - #### **Moniteur**
 ![Ecran](media/equip_ecran_devant.jpg)
 - #### **Casque EEG**
-![Casque EEG](media/equip_casque_egg.jpg)
+![Casque EEG](media/equip_casque_eeg.jpg)
 - #### **Alimentation électrique**
 ![Alimentation](media/equip_alimentation.jpg)
 - #### **Logiciel goofi-pipe**
