@@ -145,7 +145,7 @@ Voici une image des ondes actives d'une personne qui n'est pas en détente.
 
 ### Ce qui m'a plus
 
-J'ai aimé la présence de l'écran. Cela aide beaucoup lorsqu'on a des retours visuels en temps réels qui nous informe de ce que nos actions faits. Le tout était très intuitif a utilisé. C'était facile de savoir qu'il fallait porter un casque, que les ondes sont reliées à nous et que l'image qui se fait projetter change à cause de l'utilisateur.
+J'ai aimé la présence de l'écran. Cela aide beaucoup lorsqu'on a des retours visuels en temps réels qui nous informe de ce que nos actions font. Le tout était très intuitif a utilisé. C'était facile de savoir qu'il fallait porter un casque, que les ondes sont reliées à nous et que l'image qui se fait projetter change à cause de l'utilisateur.
 
 ---
 
