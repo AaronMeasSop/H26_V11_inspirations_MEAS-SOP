@@ -23,11 +23,11 @@ En entrant dans la salle, on peut voir toutes les oeuvres et dispositifs. Il y e
 ![Image Oeuvre 2](media/2ieme_oeuvre.jpg)
 
 À sa gauche, celle de Francisco González-Rosas, nommée «SlopPsyopRealism (abonnez-vous $VP)».
-![Image Oeuvre 3](media/3ieme_oeuvre
+![Image Oeuvre 3](media/3ieme_oeuvre.jpg)
 
 Finalement, toujours en marchant dans un sens anti-horaire, on y arrive à l'oeuvre de Dayna McLeod, qui est nommée «Queer. Veuve. Cancer.»
 
-![Image Oeuvre 4](media/4ieme_oeuvre
+![Image Oeuvre 4](media/4ieme_oeuvre.jpg)
 
 ---
 
