@@ -13,7 +13,7 @@
 
 ### Trajet de l'exposition
 
-En entrant dans la salle, on peut voir toutes les oeuvres et dispositifs. Il y en a 4 totals. Il faut marcher dans un sens anti horaire durant le parcours. 
+En entrant dans la salle, on peut voir l'ensemble des oeuvres et dispositifs. Il y en a 4 au total. Le parcours se fait dans un sens antihoraire.
 
 ![Image de l'exposition complet](media/expo_complete.jpg)
 
@@ -21,7 +21,7 @@ En entrant dans la salle, on peut voir toutes les oeuvres et dispositifs. Il y e
 
 ### Oeuvre 1 
 
-La première oeuvre, à la droite, est «Terre Commune» par Marion Schneider. Celle-là est l'oeuvre que j'ai choisie de faire ma fiche sur.
+La première oeuvre, située à droite, est «Terre Commune» de Marion Schneider. C'est l'oeuvre que j'ai choisie pour ma fiche.
 
 ![Image Oeuvre 1](media/oeuvre_cote.jpg)
 
@@ -29,7 +29,7 @@ La première oeuvre, à la droite, est «Terre Commune» par Marion Schneider. C
 
 ### Oeuvre 2
 
-À côté, il y a l'oeuvre de Marie-Ève Levasseur, titulée «Techno-Compost 01 (Décomposition) / Techno-Compost 02 (le bruit RVB et l'espace latent en tant que jardin)».
+À côté se trouve l'oeuvre de Marie-Ève Levasseur, intitulée «Techno-Compost 01 (Décomposition) / Techno-Compost 02 (le bruit RVB et l'espace latent en tant que jardin)».
 
 ![Image Oeuvre 2](media/deuxieme_oeuvre.jpg)
 
@@ -45,7 +45,7 @@ La première oeuvre, à la droite, est «Terre Commune» par Marion Schneider. C
 
 ### Oeuvre 4
 
-Finalement, toujours en marchant dans un sens anti-horaire, on y arrive à l'oeuvre de Dayna McLeod, qui est nommée «Queer. Veuve. Cancer.»
+Finalement, en suivant le parcours dans un sens anti-horaire, on arrive à l'oeuvre de Dayna McLeod, «Queer. Veuve. Cancer.»
 
 ![Image Oeuvre 4](media/quatrieme_oeuvre.jpg)
 
@@ -61,13 +61,13 @@ Finalement, toujours en marchant dans un sens anti-horaire, on y arrive à l'oeu
 - **Type d'installation :** Interactive
   
 ### Description
-Marion Schneider cherche à lier l'écosysteme, les humains et l'intélligence artificielle. À travers cette oeuvre, elle a collecté plusieurs photo d'un sol forestier pour ensuite entraîner un modèle avec cette banque d'images. Elle désire favoriser la coexistence de ces trois «espèces», ce qui est représenté dans le titre de son oeuvre.
+Marion Schneider cherche à relier l'écosysteme, les humains et l'intélligence artificielle. À travers cette oeuvre, elle a collecté plusieurs photographies de sols forestiers pour ensuite entraîner un modèle avec cette banque d'images. Elle souhaite favoriser la coexistence de ces trois «espèces», ce qui est reflétée dans le titre de son oeuvre.
   
 ---
   
 ### Mise en espace
 
-Le tout se fait à l'intérieur à l'aide d'un support sur le plafond pour le projecteur, d'un mur blanc pour mettre les images par-dessus et d'une source d'alimentation électrique. Il y a un écran qui est mis verticalement sur le sol près du mur. Les ondes et les images sont visibles dans le champ de vision de l'utilisateur lorsqu'il fait son expérience. Il y faut aussi une place pour s'asseoir pour simuler la détention. À l'exposition, une table était mise en place au dessus de l'ordinateur pour que l'utilisateur puisse s'asseoir. Il serait possible de le faire à l'extérieur avec la présence d'une chaise, d'une surface pour imposer les images et possiblement une source d'électricité portable. 
+L'installation se déroule à l'intérieur à l'aide d'un support fixé au plafond pour le projecteur, d'un mur blanc pour mettre les images par-dessus ainsi qu'une source d'alimentation électrique. Il y a un écran placé verticalement sur le sol, près du mur. Les ondes cérébrales et les images générées sont visibles dans le champ de vision de l'utilisateur pendant son expérience. Il faut une espace pour s'asseoir afin de simuler un état de détente. À l'exposition, une table était mise en place au dessus de l'ordinateur pour que l'utilisateur puisse s'asseoir.
 
 On peut voir la mise en place de ces équipements avec mes croquis ci-dessous.
 
@@ -84,14 +84,18 @@ On peut voir la mise en place de ces équipements avec mes croquis ci-dessous.
   
 ### Composante et technique
 #### Composante
-L'oeuvre consiste de deux composantes, l'image qui est généré par l'IA et les ondes alphas et betas que le visiteur peut voir durant son expérience. Il n'y a pas d'audio présent. 
+L'oeuvre consiste de deux éléments principaux:
+- L'image qui est généré par l'IA ;
+- Les ondes cérébrales alpha et bêta que le visiteur peut voir durant son expérience.
+Il n'y a pas d'audio présent.
+
 #### Technique
-L'artiste a procuré beaucoup d'images que l'IA utilise comme projection. L'image qui sera présentée est choisie selon les données qu'il lit à partir des ondes de l'utilisateur. Cela est atteint avec le logiciel goofi-pipe pour la conversion de données. On peut voir le processus avec l'image insérée ci-dessous.
+L'artiste a fourni un grand nombre d'images que l'IA utilise pendant sa génération visuelle. L'image est sélectionnée et modifiée selon les données cérébrales captées chez l'utilisateur. Cela est possible avec le logiciel goofi-pipe pour la conversion de données.
   
 ---
   
 ### Éléments necessaires à la mise en exposition
-Il y a une longue liste d'équipements dont l'oeuvre utilise, mais voici ceux qu'on pouvait facilement distinguer.
+Voici les équipements principaux visibles lors de la visite:
 
 - #### **Ordinateur**
 ![Ordinateur](media/equip_ordinateur.jpg)
@@ -123,7 +127,7 @@ Ensuite, voici ceux qui sont moins visibles durant la visite.
 ---
   
 ### Expérience vécue
-Pour commencer, l'utilisateur porte un casque EEG. Il doit s'asseoir afin d'être en état repos, similaire à la méditation et au sommeil que l'oeuvre vise chercher. Pour qu'il sache qu'il est réellement dans cet état, le visiteur peut voir que ses ondes sont stables sur un écran qui démontrent ces données. L'image qu'il pourra voir change selon ce qu'il ressent émotionellement. S'il est plus actif ou stressé, ses ondes seront plus mouvementées et l'image qui sera mis sur le mur changera selon cela.
+Pour débuter l'expérience, l'utilisateur doit porter un casque EEG et s'asseoir afin de simuler un état de repos que l'oeuvre cherche à solliciter. Pour confirmer cet état, le visiteur peut voir que ses ondes sont stables sur un écran qui démontrent ces données. L'image qu'il pourra voir change selon ce qu'il ressent émotionellement. S'il est plus actif, ses ondes seront plus mouvementées et l'image qui sera mis sur le mur changera.
 
 ---
 
@@ -141,13 +145,13 @@ Voici une image des ondes actives d'une personne qui n'est pas en détente.
 
 ### Ce qui m'a plus
 
-J'ai aimé la présence de l'écran. Cela aide beaucoup lorsqu'on a des retours en temps réels qui nous informe de ce que nos actions faits. Le tout était très intuitif a utilisé. C'était facile de savoir qu'il fallait porter un casque, que les ondes sont reliées à nous et que l'image qui se fait projetter change à cause de l'utilisateur.
+J'ai aimé la présence de l'écran. Cela aide beaucoup lorsqu'on a des retours visuels en temps réels qui nous informe de ce que nos actions faits. Le tout était très intuitif a utilisé. C'était facile de savoir qu'il fallait porter un casque, que les ondes sont reliées à nous et que l'image qui se fait projetter change à cause de l'utilisateur.
 
 ---
 
 ### Ce que je ferais autrement
 
-Je crois que les données que recevaient le casque était desfois incorrecte. Il y avait des fois que les ondes bougeaient beaucoup et s'arrêtaient soudainement pendant qu'il n'y avait personne qui portait le casque. J'utiliserais probablement une méthode plus recherché ou une qui auraient une marge d'inconsistence plus basse. Aussi, j'aurais apprecié qu'il y aurait eu un panneau qui nous montrait les images possibles avec chaque état projette comme image. S'il n'y avait pas l'écran qui montre nos ondes, on ne saurait pas à quelle état c'était associé à. Malgré cela, c'était quand même vague.
+Je crois que les données que recevaient le casque était desfois incorrecte. Il y avait des fois que les ondes bougeaient beaucoup et s'arrêtaient soudainement pendant qu'il n'y avait personne qui portait le casque. J'utiliserais probablement une méthode plus recherché ou une qui auraient une marge d'inconsistence plus basse. De plus, j'aurais apprecié qu'il y aurait eu un panneau qui nous montrait les images possibles avec chaque état projette comme image. S'il n'y avait pas l'écran qui montre nos ondes, on ne saurait pas à quelle état c'était associé à. Malgré cela, la façon que l'IA choisi ses images étaient relativement vague.
 
 ---
   
