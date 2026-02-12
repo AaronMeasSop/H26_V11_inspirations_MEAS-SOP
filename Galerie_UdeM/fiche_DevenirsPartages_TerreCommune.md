@@ -56,7 +56,7 @@ Finalement, toujours en marchant dans un sens anti-horaire, on y arrive à l'oeu
 - **Date :** 2025
 - **Type d'installation :** Interactive
 
-![Image Terre Commun](media/terrecommun_image.jpeg)
+![Image Terre Commun](media/terrecommun_image.jpg)
 ###### Image provenant du site web Ada X
   
 ### Description
