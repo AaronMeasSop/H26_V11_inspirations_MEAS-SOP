@@ -63,7 +63,7 @@ Finalement, toujours en marchant dans un sens anti-horaire, on y arrive à l'oeu
 ![Image Cartel](media/oeuvre_cartel.jpg)
   
 ### Description
-L'utilisateur porte un casque EEG pour lire ses ondes cérébrales, ceux liées à la méditation et au sommeil. Il doit rester statique, idéalement dans un état assis pour que ses ondes soient bien lues. L'IA de l'oeuvre génère des images de sols forestiers que Marion l'a procuré. Il y a une projecteur qui projette ces images sur un mur blanc. Pour alimenter tout cela, il faut un ordinateur qui charge les données en temps réel à l'aide du logiciel goofi-pipe. L'utilisateur peut voir ses ondes alpha et beta avec un écran qui est mis verticalement sur le sol, dans son champ de vision avec les images d'IA.
+Marion Schneider cherche à lier l'écosysteme, les humains et l'intélligence artificielle. À travers cette oeuvre, elle a collecté plusieurs photo d'un sol forestier pour ensuite entraîner un modèle avec cette banque d'images. Elle désire favoriser la coexistence de ces trois «espèces», ce qui est représenté dans le titre de son oeuvre.
   
 ---
   
@@ -117,7 +117,7 @@ Ensuite, voici ceux qui sont moins visibles durant la visite.
 - Extrusions d'aluminium
 - Acrylique
 - Les images que l'artiste a collecté lors de ses balades autour du Lac Forget dans les Laurentides
-- Modéle StyleGAN
+- Modèle StyleGAN
 - Logiciel Autolume
 - Logiciel TouchDesigner
 - Logiciel MuseLsl
@@ -138,7 +138,19 @@ Voici une image des ondes statiques d'une personne en détente.
 Voici une image des ondes actives d'une personne qui n'est pas en détente.
 
 ![Ondes Mouvement](media/equip_ecran_mouvement.jpg)
-  
+
+---
+
+### Ce qui m'a plus
+
+J'ai aimé la présence de l'écran. Cela aide beaucoup lorsqu'on a des retours en temps réels qui nous informe de ce que nos actions faits. Le tout était très intuitif a utilisé. C'était facile de savoir qu'il fallait porter un casque, que les ondes sont reliées à nous et que l'image qui se fait projetter change à cause de l'utilisateur.
+
+---
+
+### Ce que je ferais autrement
+
+Je crois que les données que recevaient le casque était desfois incorrecte. Il y avait des fois que les ondes bougeaient beaucoup et s'arrêtaient soudainement pendant qu'il n'y avait personne qui portait le casque. J'utiliserais probablement une méthode plus recherché ou une qui auraient une marge d'inconsistence plus basse. Aussi, j'aurais apprecié qu'il y aurait eu un panneau qui nous montrait les images possibles avec chaque état projette comme image. S'il n'y avait pas l'écran qui montre nos ondes, on ne saurait pas à quelle état c'était associé à. Malgré cela, c'était quand même vague.
+
 ---
   
 ## References
