@@ -3,19 +3,33 @@
 ![Affiches de l'exposition](media/expo_affiche.jpg)
 
 ## Exposition - Devenirs Partagés. Pratiques de l'IA
+![Cartel de l'exposition](media/expo_desc.jpg)
+---
 - **Lieu :** Galerie de l'Université de Montréal
 - **Date :** 29 janvier 2026
 - **Type d'exposition:** Temporaire et intérieur
-![Cartel de l'exposition](media/expo_desc.jpg)
-![Crédits de l'exposition](media/expo_artistes.jpg)
-![Deuxième oeuvre](media/2ieme_oeuvre.jpg)
-![Troisième oeuvre](media/3ieme_oeuvre.jpg)
-![Quatrième oeuvre](media/4ieme_oeuvre.jpg)
+- 
+---
 
 ### Trajet de l'exposition
 ![Image de l'exposition complet](media/expo_complete.jpg)
 
-En entrant dans la salle, on peut voir toutes les oeuvres et dispositifs. Il y en a 4 totals. Il faut marcher dans un sens anti horaire durant le parcours. La première oeuvre, à la droite, est Terre Commune par Marion Schneider. Juste à côté, il y a 
+En entrant dans la salle, on peut voir toutes les oeuvres et dispositifs. Il y en a 4 totals. Il faut marcher dans un sens anti horaire durant le parcours. La première oeuvre, à la droite, est «Terre Commune» par Marion Schneider. Celle-là est l'oeuvre que j'ai choisie de faire ma fiche sur.
+### Oeuvre 1 
+![Image Oeuvre 1](oeuvre_cote.jpg)
+
+À côté, il y a l'oeuvre de Marie-Ève Levasseur, titulée «Techno-Compost 01 (Décomposition) / Techno-Compost 02 (le bruit RVB et l'espace latent en tant que jardin)».
+
+![Image Oeuvre 2](2ieme_oeuvre.jpg)
+
+À sa gauche, celle de Francisco González-Rosas, nommée «SlopPsyopRealism (abonnez-vous $VP)».
+![Image Oeuvre 3](3ieme_oeuvre.jpg)
+
+Finalement, toujours en marchant dans un sens anti-horaire, on y arrive à l'oeuvre de Dayna McLeod, qui est nommée «Queer. Veuve. Cancer.»
+
+![Image Oeuvre 4](4ieme_oeuvre.jpg)
+
+---
 
 ## Oeuvre choisie - Terre Commune / Common Ground
 - **Artiste :** Marion Schneider
@@ -87,7 +101,7 @@ Pour commencer, l'utilisateur porte un casque EEG. Il doit s'asseoir afin d'êtr
 ---
   
 ## References
-
+[Site web de l'exposition](https://galerie.umontreal.ca/devenirs-partagees-pratiques-de-lia.php)
 [Site web de l'artiste](https://schneidermarion.net)
 
 
