@@ -52,12 +52,15 @@ Finalement, toujours en marchant dans un sens anti-horaire, on y arrive à l'oeu
 ---
 
 ## Oeuvre choisie - Terre Commune / Common Ground
+
+![Image Terre Commun](media/terrecommun_image.jpg)
+###### Image provenant du site web Ada X
+
 - **Artiste :** Marion Schneider
 - **Date :** 2025
 - **Type d'installation :** Interactive
 
-![Image Terre Commun](media/terrecommun_image.jpg)
-###### Image provenant du site web Ada X
+![Image Cartel](media/oeuvre_cartel.jpg)
   
 ### Description
 L'utilisateur porte un casque EEG pour lire ses ondes cérébrales, ceux liées à la méditation et au sommeil. Il doit rester statique, idéalement dans un état assis pour que ses ondes soient bien lues. L'IA de l'oeuvre génère des images de sols forestiers que Marion l'a procuré. Il y a une projecteur qui projette ces images sur un mur blanc. Pour alimenter tout cela, il faut un ordinateur qui charge les données en temps réel à l'aide du logiciel goofi-pipe. L'utilisateur peut voir ses ondes alpha et beta avec un écran qui est mis verticalement sur le sol, dans son champ de vision avec les images d'IA.
@@ -124,9 +127,7 @@ Ensuite, voici ceux qui sont moins visibles durant la visite.
 ### Expérience vécue
 Pour commencer, l'utilisateur porte un casque EEG. Il doit s'asseoir afin d'être en état repos, similaire à la méditation et au sommeil que l'oeuvre vise chercher. Pour qu'il sache qu'il est réellement dans cet état, le visiteur peut voir que ses ondes sont stables sur un écran qui démontrent ces données. L'image qu'il pourra voir change selon ce qu'il ressent émotionellement. S'il est plus actif ou stressé, ses ondes seront plus mouvementées et l'image qui sera mis sur le mur changera selon cela.
 
-Voici une vidéo qui démontre une utilisateur qui participe à l'utilisation de l'oeuvre.
 
-[![Vidéo utilisateur](media/video_oeuvre_action.mp4)]
   
 ---
   
