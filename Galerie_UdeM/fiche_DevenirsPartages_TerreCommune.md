@@ -67,6 +67,17 @@ L'utilisateur porte un casque EEG pour lire ses ondes cérébrales, ceux liées 
 ### Mise en espace
 
 Le tout se fait à l'intérieur à l'aide d'un support sur le plafond pour le projecteur, d'un mur blanc pour mettre les images par-dessus et d'une source d'alimentation électrique. Il y a un écran qui est mis verticalement sur le sol près du mur. Les ondes et les images sont visibles dans le champ de vision de l'utilisateur lorsqu'il fait son expérience. Il y faut aussi une place pour s'asseoir pour simuler la détention. À l'exposition, une table était mise en place au dessus de l'ordinateur pour que l'utilisateur puisse s'asseoir. Il serait possible de le faire à l'extérieur avec la présence d'une chaise, d'une surface pour imposer les images et possiblement une source d'électricité portable. 
+
+On peut voir la mise en place de ces équipements avec mes croquis ci-dessous.
+
+#### Plan
+
+![Croquis Plan](media/croquis_plan.jpg)
+
+#### Vue Cavalière
+
+![Croquis Cavaliere](media/croquis_cavaliere.jpg)
+  
   
 ---
   
@@ -86,9 +97,9 @@ Il y a une longue liste d'équipements dont l'oeuvre utilise, mais voici ceux qu
 - #### **Mur blanc**
 ![Mur](media/equip_mur.jpg)
 - #### **Projecteur**
-![Projecteur](equip_mur.jpg)
+![Projecteur](media/equip_projecteur.jpg)
 - #### **Moniteur**
-![Ecran](equip_ecran_devant.jpg)
+![Ecran](media/equip_ecran_devant.jpg)
 - #### **Casque EEG**
 ![Casque EEG](media/equip_casque_egg.jpg)
 - #### **Alimentation électrique**
@@ -96,17 +107,7 @@ Il y a une longue liste d'équipements dont l'oeuvre utilise, mais voici ceux qu
 - #### **Logiciel goofi-pipe**
 ![goofi-pipe](media/equip_ecran_derriere.jpg)
 
-On peut voir la mise en place de ces
-équipements avec mes croquis ci-dessous.
-
-#### Plan
-
-![Croquis Plan](media/croquis_plan.jpg)
-
-#### Vue Cavalière
-
-![Croquis Cavaliere](media/croquis_cavaliere.jpg)
-  
+---
 
 Ensuite, voici ceux qui sont moins visibles durant la visite.
 
