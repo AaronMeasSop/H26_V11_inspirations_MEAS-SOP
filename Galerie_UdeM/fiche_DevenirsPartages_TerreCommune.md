@@ -12,18 +12,38 @@
 ---
 
 ### Trajet de l'exposition
+
+En entrant dans la salle, on peut voir toutes les oeuvres et dispositifs. Il y en a 4 totals. Il faut marcher dans un sens anti horaire durant le parcours. 
+
 ![Image de l'exposition complet](media/expo_complete.jpg)
 
-En entrant dans la salle, on peut voir toutes les oeuvres et dispositifs. Il y en a 4 totals. Il faut marcher dans un sens anti horaire durant le parcours. La première oeuvre, à la droite, est «Terre Commune» par Marion Schneider. Celle-là est l'oeuvre que j'ai choisie de faire ma fiche sur.
+---
+
 ### Oeuvre 1 
+
+La première oeuvre, à la droite, est «Terre Commune» par Marion Schneider. Celle-là est l'oeuvre que j'ai choisie de faire ma fiche sur.
+
 ![Image Oeuvre 1](media/oeuvre_cote.jpg)
+
+---
+
+### Oeuvre 2
 
 À côté, il y a l'oeuvre de Marie-Ève Levasseur, titulée «Techno-Compost 01 (Décomposition) / Techno-Compost 02 (le bruit RVB et l'espace latent en tant que jardin)».
 
 ![Image Oeuvre 2](media/deuxieme_oeuvre.jpg)
 
+---
+
+### Oeuvre 3
+
 À sa gauche, celle de Francisco González-Rosas, nommée «SlopPsyopRealism (abonnez-vous $VP)».
+
 ![Image Oeuvre 3](media/troisieme_oeuvre.jpg)
+
+---
+
+### Oeuvre 4
 
 Finalement, toujours en marchant dans un sens anti-horaire, on y arrive à l'oeuvre de Dayna McLeod, qui est nommée «Queer. Veuve. Cancer.»
 
