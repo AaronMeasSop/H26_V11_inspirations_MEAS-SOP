@@ -20,14 +20,14 @@ En entrant dans la salle, on peut voir toutes les oeuvres et dispositifs. Il y e
 
 À côté, il y a l'oeuvre de Marie-Ève Levasseur, titulée «Techno-Compost 01 (Décomposition) / Techno-Compost 02 (le bruit RVB et l'espace latent en tant que jardin)».
 
-![Image Oeuvre 2](media/2ieme_oeuvre.jpg)
+![Image Oeuvre 2](media/deuxieme_oeuvre.jpg)
 
 À sa gauche, celle de Francisco González-Rosas, nommée «SlopPsyopRealism (abonnez-vous $VP)».
-![Image Oeuvre 3](media/3ieme_oeuvre.)
+![Image Oeuvre 3](media/troisieme_oeuvre.)
 
 Finalement, toujours en marchant dans un sens anti-horaire, on y arrive à l'oeuvre de Dayna McLeod, qui est nommée «Queer. Veuve. Cancer.»
 
-![Image Oeuvre 4](media/4ieme_oeuvre.)
+![Image Oeuvre 4](media/quatrieme_oeuvre.)
 
 ---
 
