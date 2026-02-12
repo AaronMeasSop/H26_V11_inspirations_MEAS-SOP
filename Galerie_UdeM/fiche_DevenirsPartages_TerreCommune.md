@@ -126,7 +126,7 @@ Pour commencer, l'utilisateur porte un casque EEG. Il doit s'asseoir afin d'êtr
 
 Voici une vidéo qui démontre une utilisateur qui participe à l'utilisation de l'oeuvre.
 
-![Vidéo utilisateur](media/video_oeuvre_action.mp4)
+[![Vidéo utilisateur](media/video_oeuvre_action.mp4)]
   
 ---
   
