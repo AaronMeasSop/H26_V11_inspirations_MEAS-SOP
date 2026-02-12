@@ -60,6 +60,8 @@ Finalement, toujours en marchant dans un sens anti-horaire, on y arrive à l'oeu
 - **Date :** 2025
 - **Type d'installation :** Interactive
 
+![Image Cartel](media/oeuvre_cartel.jpg)
+  
 ### Description
 L'utilisateur porte un casque EEG pour lire ses ondes cérébrales, ceux liées à la méditation et au sommeil. Il doit rester statique, idéalement dans un état assis pour que ses ondes soient bien lues. L'IA de l'oeuvre génère des images de sols forestiers que Marion l'a procuré. Il y a une projecteur qui projette ces images sur un mur blanc. Pour alimenter tout cela, il faut un ordinateur qui charge les données en temps réel à l'aide du logiciel goofi-pipe. L'utilisateur peut voir ses ondes alpha et beta avec un écran qui est mis verticalement sur le sol, dans son champ de vision avec les images d'IA.
   
@@ -125,12 +127,11 @@ Ensuite, voici ceux qui sont moins visibles durant la visite.
 ### Expérience vécue
 Pour commencer, l'utilisateur porte un casque EEG. Il doit s'asseoir afin d'être en état repos, similaire à la méditation et au sommeil que l'oeuvre vise chercher. Pour qu'il sache qu'il est réellement dans cet état, le visiteur peut voir que ses ondes sont stables sur un écran qui démontrent ces données. L'image qu'il pourra voir change selon ce qu'il ressent émotionellement. S'il est plus actif ou stressé, ses ondes seront plus mouvementées et l'image qui sera mis sur le mur changera selon cela.
 
-Voici une image des ondes d'une personne en détente, ce qui est fortement encouragé durant l'expérience.
-![Ondes Statique](equip_ecran_statique.jpg)
+Voici une image des ondes statiques d'une personne en détente.
+![Ondes Statiques](media/equip_ecran_statique.jpg)
 
-Voice une image des ondes d'une personne plus active, ce qui n'est pas idéal pour l'expérience. Par contre, ce n'est pas mauvais, car on peut voir les résultats différents de ce qui arrive dans ce cas.
-![Ondes En Mouvement](equip_ecran_mouvement.jpg)
-
+Voici une image des ondes actives d'une personne qui n'est pas en détente.
+![Ondes Mouvement](media/equip_ecran_mouvement.jpg)
   
 ---
   
