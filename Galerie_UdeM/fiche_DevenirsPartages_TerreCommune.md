@@ -16,18 +16,18 @@
 
 En entrant dans la salle, on peut voir toutes les oeuvres et dispositifs. Il y en a 4 totals. Il faut marcher dans un sens anti horaire durant le parcours. La première oeuvre, à la droite, est «Terre Commune» par Marion Schneider. Celle-là est l'oeuvre que j'ai choisie de faire ma fiche sur.
 ### Oeuvre 1 
-![Image Oeuvre 1](oeuvre_cote.jpg)
+![Image Oeuvre 1](media/oeuvre_cote.jpg)
 
 À côté, il y a l'oeuvre de Marie-Ève Levasseur, titulée «Techno-Compost 01 (Décomposition) / Techno-Compost 02 (le bruit RVB et l'espace latent en tant que jardin)».
 
-![Image Oeuvre 2](2ieme_oeuvre.jpg)
+![Image Oeuvre 2](media/2ieme_oeuvre.jpg)
 
 À sa gauche, celle de Francisco González-Rosas, nommée «SlopPsyopRealism (abonnez-vous $VP)».
-![Image Oeuvre 3](3ieme_oeuvre.jpg)
+![Image Oeuvre 3](media/3ieme_oeuvre.jpg)
 
 Finalement, toujours en marchant dans un sens anti-horaire, on y arrive à l'oeuvre de Dayna McLeod, qui est nommée «Queer. Veuve. Cancer.»
 
-![Image Oeuvre 4](4ieme_oeuvre.jpg)
+![Image Oeuvre 4](media/4ieme_oeuvre.jpg)
 
 ---
 
