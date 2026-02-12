@@ -89,9 +89,17 @@ L'oeuvre consiste de deux éléments principaux:
 - Les ondes cérébrales alpha et bêta que le visiteur peut voir durant son expérience.
 Il n'y a pas d'audio présent.
 
+#### Voici un des composants de l'oeuvre, une puce
+
+![Composant Puce](media/composant_puce.jpg)
+
 #### Technique
 L'artiste a fourni un grand nombre d'images que l'IA utilise pendant sa génération visuelle. L'image est sélectionnée et modifiée selon les données cérébrales captées chez l'utilisateur. Cela est possible avec le logiciel goofi-pipe pour la conversion de données.
-  
+
+#### Voici un des images qui se fait projetter, illustrant la technique que l'artiste a utilisé pour se fournir les images.
+
+![Technique Image](media/technique_image.jpg)
+
 ---
   
 ### Éléments necessaires à la mise en exposition
