@@ -8,7 +8,7 @@
 - **Lieu :** Galerie de l'Université de Montréal
 - **Date :** 29 janvier 2026
 - **Type d'exposition:** Temporaire et intérieur
-- 
+
 ---
 
 ### Trajet de l'exposition
