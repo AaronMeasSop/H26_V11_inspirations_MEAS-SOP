@@ -59,8 +59,6 @@ Finalement, toujours en marchant dans un sens anti-horaire, on y arrive à l'oeu
 - **Artiste :** Marion Schneider
 - **Date :** 2025
 - **Type d'installation :** Interactive
-
-![Image Cartel](media/oeuvre_cartel.jpg)
   
 ### Description
 Marion Schneider cherche à lier l'écosysteme, les humains et l'intélligence artificielle. À travers cette oeuvre, elle a collecté plusieurs photo d'un sol forestier pour ensuite entraîner un modèle avec cette banque d'images. Elle désire favoriser la coexistence de ces trois «espèces», ce qui est représenté dans le titre de son oeuvre.
