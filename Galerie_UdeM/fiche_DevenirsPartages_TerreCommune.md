@@ -81,17 +81,19 @@ L'artiste a procuré beaucoup d'images que l'IA utilise comme projection. L'imag
 ### Éléments necessaires à la mise en exposition
 Il y a une longue liste d'équipements dont l'oeuvre utilise, mais voici ceux qu'on pouvait facilement distinguer.
 
-- Ordinateur
+- #### **Ordinateur**
 ![Ordinateur](media/equip_ordinateur.jpg)
-- Mur blanc
-[Mur](media/
-- Projecteur
-- Moniteur
-- Casque EEG
+- #### **Mur blanc**
+![Mur](media/equip_mur.jpg)
+- #### **Projecteur**
+![Projecteur](equip_mur.jpg)
+- #### **Moniteur**
+![Ecran](equip_ecran_devant.jpg)
+- #### **Casque EEG**
 ![Casque EEG](media/equip_casque_egg.jpg)
-- Alimentation électrique
+- #### **Alimentation électrique**
 ![Alimentation](media/equip_alimentation.jpg)
-- Logiciel goofi-pipe
+- #### **Logiciel goofi-pipe**
 ![goofi-pipe](media/equip_ecran_derriere.jpg)
 
 On peut voir la mise en place de ces
