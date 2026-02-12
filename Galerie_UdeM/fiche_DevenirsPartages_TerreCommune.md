@@ -55,6 +55,9 @@ Finalement, toujours en marchant dans un sens anti-horaire, on y arrive à l'oeu
 - **Artiste :** Marion Schneider
 - **Date :** 2025
 - **Type d'installation :** Interactive
+
+![Image Terre Commun](media/terrecommun_image.jpeg)
+###### Image provenant du site web Ada X
   
 ### Description
 L'utilisateur porte un casque EEG pour lire ses ondes cérébrales, ceux liées à la méditation et au sommeil. Il doit rester statique, idéalement dans un état assis pour que ses ondes soient bien lues. L'IA de l'oeuvre génère des images de sols forestiers que Marion l'a procuré. Il y a une projecteur qui projette ces images sur un mur blanc. Pour alimenter tout cela, il faut un ordinateur qui charge les données en temps réel à l'aide du logiciel goofi-pipe. L'utilisateur peut voir ses ondes alpha et beta avec un écran qui est mis verticalement sur le sol, dans son champ de vision avec les images d'IA.
@@ -121,6 +124,7 @@ Pour commencer, l'utilisateur porte un casque EEG. Il doit s'asseoir afin d'êtr
 ---
   
 ## References
+[Image d'oeuvre de Marion Schneider](https://www.ada-x.org/activities/common-ground-marion-schneider/)
 [Site web de l'exposition](https://galerie.umontreal.ca/devenirs-partagees-pratiques-de-lia.php)
 [Site web de l'artiste](https://schneidermarion.net)
 
