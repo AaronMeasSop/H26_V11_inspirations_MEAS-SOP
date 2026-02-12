@@ -1,14 +1,21 @@
 # TP1 - Visite d'une exposition à la Galerie de l'Université de Montréal
 
+![Affiches de l'exposition](media/expo_affiche.jpg)
+
 ## Exposition - Devenirs Partagés. Pratiques de l'IA
 - **Lieu :** Galerie de l'Université de Montréal
 - **Date :** 29 janvier 2026
 - **Type d'exposition:** Temporaire et intérieur
+![Cartel de l'exposition](media/expo_desc.jpg)
+![Crédits de l'exposition](media/expo_artistes.jpg)
+![Deuxième oeuvre](media/2ieme_oeuvre.jpg)
+![Troisième oeuvre](media/3ieme_oeuvre.jpg)
+![Quatrième oeuvre](media/4ieme_oeuvre.jpg)
 
 ### Trajet de l'exposition
 ![Image de l'exposition complet](media/expo_complete.jpg)
 
-En entrant dans la salle, on peut voir toutes les oeuvres et dispositifs. Il y en a 4 totals. Il faut marcher dans un sens anti horaire durant le parcours. La première oeuvre est Terre Commune par Marion Schneider. 
+En entrant dans la salle, on peut voir toutes les oeuvres et dispositifs. Il y en a 4 totals. Il faut marcher dans un sens anti horaire durant le parcours. La première oeuvre, à la droite, est Terre Commune par Marion Schneider. Juste à côté, il y a 
 
 ## Oeuvre choisie - Terre Commune / Common Ground
 - **Artiste :** Marion Schneider
@@ -38,12 +45,17 @@ L'artiste a procuré beaucoup d'images que l'IA utilise comme projection. L'imag
 Il y a une longue liste d'équipements dont l'oeuvre utilise, mais voici ceux qu'on pouvait facilement distinguer.
 
 - Ordinateur
+![Ordinateur](media/equip_ordinateur.jpg)
 - Mur blanc
+[Mur](media/
 - Projecteur
 - Moniteur
 - Casque EEG
+![Casque EEG](media/equip_casque_egg.jpg)
 - Alimentation électrique
+![Alimentation](media/equip_alimentation.jpg)
 - Logiciel goofi-pipe
+![goofi-pipe](media/equip_ecran_derriere.jpg)
 
 On peut voir la mise en place de ces
 équipements avec mes croquis ci-dessous.
