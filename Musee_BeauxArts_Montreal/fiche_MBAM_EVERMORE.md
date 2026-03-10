@@ -1,24 +1,47 @@
 Nom de l'exposition ou de l'événement
+
+Commission du Musée des Beaux-Arts de Montréal
+
 [Affiche de l'exposition]
 
 Lieu de mise en exposition
+
+1380 rue Sherbrooke West, Montréal
+
 [Moi devant l'entrée de l'édifice]
 
 Type d'exposition (temp/perm/int/ext)
 
+Temporaire (nocturne jusqu'à 23h) et extérieure
+
 Date de visite
 
+6 mars 2026
+
+
 Titre de l'oeuvre
+
+EVER MORE
+
 [Vue d'ensemble de l'oeuvre]
 
 Nom de l'artiste
 
+Kurt Hentschläger
+
 Année de réalisation
 
+2025
+
 Description de l'oeuvre ou du dispositif
+
+In EVER MORE, he explores the emergence of a hybrid nature-an amalgamation of physical and virtual elements that blend together seamlessly. Edited, animated, and composited video recordings of wild plants and flowers from the Michigan prairies are interwoven with effects, lighting and 3D- synthesized landscapes.
+This moving nature, which might suggest a celebration of the physical world, instead masks the exploitation, depletion and accelerating the unravelling of natura habitats across the globe.
+
+https://www.mbam.qc.ca/en/news/evermore/
+
 [Cartel pour un oeuvre]
 [Diverses vues]
-(Texte explicatif pour un dispositif)
 --À composer ou reprendre la description offerte sur le site de l'artiste ou sur le cartel en indiquant bien sa source
 
 
