@@ -46,9 +46,15 @@ https://www.mbam.qc.ca/en/news/evermore/
 
 
 Type d'installation (contemplative, immersive, interactive)
+
+Contemplative
+
 [Vue descriptive - vidéo OU photo qui permet de comprendre le type d'installation]
 
 Fonction du dispositif multimédia (scénographie, mise en valeur, mise en contexte, support pédagogique, diffusion du patrimoine immatériel)
+
+
+
 [Vue descriptive - vidéo OU photo qui nous permet de bien comprendre la fonction du dispositif multimédia]
 
 Mise en espace
