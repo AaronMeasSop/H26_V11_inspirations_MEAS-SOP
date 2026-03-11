@@ -1,6 +1,6 @@
 # EVER MORE - Commission pour le canvas digital du MBAM
 
-![Titre du location](media/titre_location.png)
+![Location](media/oeuvre_siteweb.jpg)
 ### Lieu
 Musée des Beaux-Arts de Montréal, 1380 rue Sherbrooke West, Montréal
 ### Type d'exposition
@@ -27,13 +27,13 @@ Kurt Hentschläger
 ![Cartel](media/cartel.jpg)
 
 ### Description de l'oeuvre
-Dans EVER MORE, Kurt Hentschläger explore l'émergence d'une nature hybride - une amalgation des éléments physiques et virtuelles qui se mélangent parfaitement. Des enregistrements vidéo de plantes et de fleurs sauvages des prairies du Michigan, montés, animés et composés, sont entrecoupés d'effets de synthèse 3D, d'éclairages et de paysages. ¹
+Dans EVER MORE, Kurt Hentschläger explore l'émergence d'une nature hybride - une amalgation des éléments physiques et virtuelles qui se mélangent parfaitement. Des enregistrements vidéo de plantes et de fleurs sauvages des prairies du Michigan, montés, animés et composés, sont entrecoupés d'effets de synthèse 3D, d'éclairages et de paysages. ²
 
-Ce caractère mouvant, qui pourrait suggérer une célébration du monde physique, masque en réalité l'exploitation, l'épuisement et l'accélération de la destruction des habitats naturels à travers le monde.¹
+Ce caractère mouvant, qui pourrait suggérer une célébration du monde physique, masque en réalité l'exploitation, l'épuisement et l'accélération de la destruction des habitats naturels à travers le monde.²
 
 ### Type d'installation
 Contemplative
-![Vue en angle](media/vue_angle.jpg)
+![Vue de droite](media/vue_droit.jpg)
 
 ---
 
@@ -48,18 +48,24 @@ Pour voir l'oeuvre, il faut se mettre à l'autre bord de la rue du musée. Il y 
 ### Composantes et techniques 
 Il n'y a que deux composantes visibles dans cette oeuvre. Ce sont le musée comme canvas et le projecteur pour démontrer l'image. Il est très fortement probable qu'il y a une ordinateur connectée au projecteur pour que la vidéo joue, mais on ne peut pas le voir. L'artiste a dû utilisé une grande espace, notamment la longueur d'une rue, pour pouvoir jouer la vidéo sur le musée complet.
 
-Éléments nécessaires à la mise en exposition
 ![Projecteur](media/equipement_projecteur.jpg)
+### Éléments nécessaires à la mise en exposition
 Il y a un projecteur qui est installé dans une chambre est joue sa vidéo sur la musée à travers une fenêtre. L'autre élément est la musée pour se servir comme canvas au projection.
 
-Expérience vécue
-Texte qui explique ce qui est attendu du visiteur ou de l'interacteur. Où et comment se positionne-t-il/elle? Que faut-il faire? Comment réagit l'oeuvre ou le dispositif (si interactivité)? Plus personnellement, description de l'expérience que l'oeuvre ou le dispositif vous a fait vivre.
+### Expérience vécue
+Pour expériencer l'oeuvre, il faut se placer sur la rue de l'autre bord du musée. Le visiteur peut aussi regarder une vidéo de 5 minutes qui est jouée sur le musée. S'il est trop proche, il ne voit pas le tout. Ce point de vue est illustrer avec l'image ci-dessous.
+![Vue en Angle](media/vue_angle.jpg)
 
-❤️ Ce qui vous a plu, vous a donné des idées
-Texte à rédiger qui présente un ou des aspects inspirants, avec justifications détaillées (pourquoi est-ce que cela vous a plus/ vous a donné des idées ?
+### Ce qui m'a plu ou m'a donné des idées
+J'ai trouvé intéressant le moyen que l'artiste entreprend pour pouvoir animer le musée.
 
-Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
-Texte à rédiger qui présente un ou des aspects que vous ne retiendriez pas ou feriez autrement, avec justifications détaillées (pourquoi? comment?)
+### Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
+Je n'ai pas vraiment compris le but de l'oeuvre. Il n'y pas d'instruction ou de moyen intuitif de savoir ce que l'artiste voulait qu'on expérience. La cartel n'explique pas beaucoup. Il se peut aussi que les conditions météorologiques au moment que j'ai visité n'était pas favorable pour la visualisation.
 
 ## Références
-¹ Musée des Beaux-Arts de Montréal, « Une œuvre de Kurt Hentschläger pour la Toile numérique » , 9 octobre 2025, https://www.mbam.qc.ca/en/news/evermore/
+
+¹ Kurt Hentschläger, « EVER MORE (2025) », 2025, https://kurthentschlager.com/EVER-MORE-2025
+² Musée des Beaux-Arts de Montréal, « Une œuvre de Kurt Hentschläger pour la Toile numérique » , 9 octobre 2025, https://www.mbam.qc.ca/en/news/evermore/
+
+### Consultation
+https://www.mbam.qc.ca/en/news/evermore/
