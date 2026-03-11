@@ -65,5 +65,5 @@ Texte à rédiger qui présente un ou des aspects inspirants, avec justification
 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 Texte à rédiger qui présente un ou des aspects que vous ne retiendriez pas ou feriez autrement, avec justifications détaillées (pourquoi? comment?)
 
-Références
+## Références
 ¹ Musée des Beaux-Arts de Montréal, « Une œuvre de Kurt Hentschläger pour la Toile numérique » , 9 octobre 2025, https://www.mbam.qc.ca/en/news/evermore/
