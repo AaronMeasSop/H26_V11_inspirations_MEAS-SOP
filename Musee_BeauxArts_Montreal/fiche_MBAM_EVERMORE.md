@@ -25,15 +25,13 @@ Kurt Hentschläger
 
 ### Description de l'oeuvre
 
-Dans EVER MORE, Kurt Hentschläger explore l'émergence d'une nature hybride - une amalgation des éléments physiques et virtuelles qui se mélangent parfaitement. Des enregistrements vidéo de plantes et de fleurs sauvages des prairies du Michigan, montés, animés et composés, sont entrecoupés d'effets de synthèse 3D, d'éclairages et de paysages.
+Dans EVER MORE, Kurt Hentschläger explore l'émergence d'une nature hybride - une amalgation des éléments physiques et virtuelles qui se mélangent parfaitement. Des enregistrements vidéo de plantes et de fleurs sauvages des prairies du Michigan, montés, animés et composés, sont entrecoupés d'effets de synthèse 3D, d'éclairages et de paysages. ¹
 
 Cette nature mouvante,
 
 In EVER MORE, he explores the emergence of a hybrid nature-an amalgamation of physical and virtual elements that blend together seamlessly. Edited, animated, and composited video recordings of wild plants and flowers from the Michigan prairies are interwoven with effects, lighting and 3D- synthesized landscapes.
 
 Ce caractère mouvant, qui pourrait suggérer une célébration du monde physique, masque en réalité l'exploitation, l'épuisement et l'accélération de la destruction des habitats naturels à travers le monde.¹
-
-https://www.mbam.qc.ca/en/news/evermore/
 
 ![Cartel](media/cartel.jpg)
 --À composer ou reprendre la description offerte sur le site de l'artiste ou sur le cartel en indiquant bien sa source
@@ -68,4 +66,4 @@ Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que v
 Texte à rédiger qui présente un ou des aspects que vous ne retiendriez pas ou feriez autrement, avec justifications détaillées (pourquoi? comment?)
 
 Références
-¹ Musée des Beaux-Arts de Montréal, Kurt Hentschläger : EVER MORE, 2025, https://www.mbam.qc.ca/fr/expositions/kurt-hentschlager-ever-more/
+¹ Musée des Beaux-Arts de Montréal, « Une œuvre de Kurt Hentschläger pour la Toile numérique » , 9 octobre 2025, https://www.mbam.qc.ca/en/news/evermore/
