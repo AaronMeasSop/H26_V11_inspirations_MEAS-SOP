@@ -2,7 +2,7 @@ Nom de l'exposition ou de l'événement
 
 Commission du Musée des Beaux-Arts de Montréal
 
-![Titre du location](image/media/titre_location.png)
+![Titre du location](media/titre_location.png)
 
 Lieu de mise en exposition
 
