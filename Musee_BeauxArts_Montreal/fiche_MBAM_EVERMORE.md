@@ -1,6 +1,8 @@
 # EVER MORE - Commission pour le canvas digital du MBAM
 
 ![Location](media/oeuvre_siteweb.jpg)
+###### Image du site web de l'artiste ¹
+---
 ### Lieu
 Musée des Beaux-Arts de Montréal, 1380 rue Sherbrooke West, Montréal
 ### Type d'exposition
@@ -31,9 +33,10 @@ Dans EVER MORE, Kurt Hentschläger explore l'émergence d'une nature hybride - u
 
 Ce caractère mouvant, qui pourrait suggérer une célébration du monde physique, masque en réalité l'exploitation, l'épuisement et l'accélération de la destruction des habitats naturels à travers le monde.²
 
+![Vue de droite](media/vue_droit.jpg)
+
 ### Type d'installation
 Contemplative
-![Vue de droite](media/vue_droit.jpg)
 
 ---
 
@@ -41,23 +44,35 @@ Contemplative
 ### Fonction du dispositif multimédia
 L'artiste utilise la musée comme canvas. C'est avec cela qu'on peut voir l'oeuvre qui désire présenter. Il doit aussi utiliser une manque de lumière, qui est dans ce cas le soleil, pour que le tout soit visible.
 
+---
+
 ![Croquis](media/croquis_plan.png)
 ### Mise en espace
 Pour voir l'oeuvre, il faut se mettre à l'autre bord de la rue du musée. Il y a un projecteur par dessus qui joue une vidéo sur le complet du musée. 
 
+---
+
 ### Composantes et techniques 
 Il n'y a que deux composantes visibles dans cette oeuvre. Ce sont le musée comme canvas et le projecteur pour démontrer l'image. Il est très fortement probable qu'il y a une ordinateur connectée au projecteur pour que la vidéo joue, mais on ne peut pas le voir. L'artiste a dû utilisé une grande espace, notamment la longueur d'une rue, pour pouvoir jouer la vidéo sur le musée complet.
+
+---
 
 ![Projecteur](media/equipement_projecteur.jpg)
 ### Éléments nécessaires à la mise en exposition
 Il y a un projecteur qui est installé dans une chambre est joue sa vidéo sur la musée à travers une fenêtre. L'autre élément est la musée pour se servir comme canvas au projection.
 
-### Expérience vécue
-Pour expériencer l'oeuvre, il faut se placer sur la rue de l'autre bord du musée. Le visiteur peut aussi regarder une vidéo de 5 minutes qui est jouée sur le musée. S'il est trop proche, il ne voit pas le tout. Ce point de vue est illustrer avec l'image ci-dessous.
+---
+
 ![Vue en Angle](media/vue_angle.jpg)
+### Expérience vécue
+Pour expériencer l'oeuvre, il faut se placer sur la rue de l'autre bord du musée. Le visiteur peut aussi regarder une vidéo de 5 minutes qui est jouée sur le musée. S'il est trop proche, il ne voit pas le tout. Ce point de vue est illustrer avec l'image d'en haut.
+
+---
 
 ### Ce qui m'a plu ou m'a donné des idées
 J'ai trouvé intéressant le moyen que l'artiste entreprend pour pouvoir animer le musée.
+
+---
 
 ### Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 Je n'ai pas vraiment compris le but de l'oeuvre. Il n'y pas d'instruction ou de moyen intuitif de savoir ce que l'artiste voulait qu'on expérience. La cartel n'explique pas beaucoup. Il se peut aussi que les conditions météorologiques au moment que j'ai visité n'était pas favorable pour la visualisation.
@@ -65,7 +80,8 @@ Je n'ai pas vraiment compris le but de l'oeuvre. Il n'y pas d'instruction ou de 
 ## Références
 
 ¹ Kurt Hentschläger, « EVER MORE (2025) », 2025, https://kurthentschlager.com/EVER-MORE-2025
-² Musée des Beaux-Arts de Montréal, « Une œuvre de Kurt Hentschläger pour la Toile numérique » , 9 octobre 2025, https://www.mbam.qc.ca/en/news/evermore/
+
+² Musée des Beaux-Arts de Montréal, « Une œuvre de Kurt Hentschläger pour la Toile numérique », 9 octobre 2025, https://www.mbam.qc.ca/en/news/evermore/
 
 ### Consultation
 https://www.mbam.qc.ca/en/news/evermore/
