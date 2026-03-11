@@ -1,27 +1,15 @@
-Nom de l'exposition ou de l'événement
-
-Commission du Musée des Beaux-Arts de Montréal
+# EVER MORE - Commission pour le canvas digital du MBAM
 
 ![Titre du location](media/titre_location.png)
-
-Lieu de mise en exposition
-
-1380 rue Sherbrooke West, Montréal
-
-[Moi devant l'entrée de l'édifice]
-
-Type d'exposition (temp/perm/int/ext)
-
-Temporaire (nocturne jusqu'à 23h) et extérieure
-
-Date de visite
-
+### Lieu
+Musée des Beaux-Arts de Montréal, 1380 rue Sherbrooke West, Montréal
+### Type d'exposition
+Temporaire (du couché du soleil jusqu'à 23h) et extérieure. L'oeuvre demeure jusqu'au 5 avril 2026.
+### Date de visite
 6 mars 2026
+--- 
+![Moi devant l'édifice](media/moi_devant.jpg)
 
-
-Titre de l'oeuvre
-
-EVER MORE
 
 [Vue d'ensemble de l'oeuvre]
 
