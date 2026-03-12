@@ -21,6 +21,10 @@ Temporaire (du coucher du soleil jusqu'à 23h) et extérieure. L'oeuvre est pré
 
 ### Nom de l'oeuvre
 EVER MORE
+
+### Année de réalisation
+2025
+
 ### Nom de l'artiste
 Kurt Hentschläger
 
@@ -28,9 +32,6 @@ Kurt Hentschläger
 Kurt Hentschläger est un artiste autrichien qui vie présentement à New York. Les installations qu'il réalise prennent place dans l'espace physique ainsi que virtuel. Il privilégie l'expérimentation et une approche interdisciplinaire dans son travail, ce qu'on peut voir avec ses installations audiovisuelles éphèmères et ses performances alliant art, musique et théâtre. De 1992 à 2003, il faisait partie de GRANULAR≈SYNTHESIS, un duo à l'avant-garde des arts médiatiques. De 2013 à 2018, il a enseigné à la School of the Art Institute of Chicago.²
 
 Kurt Hentschläger a eu la possibilité de réaliser cette oeuvre grâce à son curateur Richard Castelli d'EPIDEMIC, qui fait partie de l'adminstration qui le gère. C'est aussi grâce au soutien du Fonds de maintien des actifs stratégiques en tourisme (FMAST) de Tourisme Montréal, avec la participation financière du gouvernement du Québec.²
-
-### Année de réalisation
-2025
 
 ![Cartel](media/cartel.jpg)
 
