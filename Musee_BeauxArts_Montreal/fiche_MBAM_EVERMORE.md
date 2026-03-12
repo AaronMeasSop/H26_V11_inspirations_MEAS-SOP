@@ -23,6 +23,10 @@ Temporaire (du coucher du soleil jusqu'à 23h) et extérieure. L'oeuvre est pré
 EVER MORE
 ### Nom de l'artiste
 Kurt Hentschläger
+
+#### Description de l'artiste
+Kurt Hentschläger est un artiste autrichien qui vie présentement à New York. 
+
 ### Année de réalisation
 2025
 
@@ -32,6 +36,8 @@ Kurt Hentschläger
 Dans EVER MORE, Kurt Hentschläger explore l'émergence d'une nature hybride - une amalgamation des éléments physiques et virtuels qui se mélangent parfaitement. Des enregistrements vidéo de plantes et de fleurs sauvages des prairies du Michigan, montés, animés et composés, sont entrecoupés d'effets de synthèse 3D, d'éclairages et de paysages. ²
 
 Ce caractère mouvant, qui pourrait suggérer une célébration du monde physique, masque en réalité l'exploitation, l'épuisement et l'accélération de la destruction des habitats naturels à travers le monde.²
+
+L'oeuvre est une vidéo d'une durée de 5 minutes et 17 secondes. Elle joue en répétition à une résolution de 4K.
 
 ![Vue de droite](media/vue_droit.jpg)
 
