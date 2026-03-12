@@ -25,7 +25,7 @@ EVER MORE
 Kurt Hentschläger
 
 #### Description de l'artiste
-Kurt Hentschläger est un artiste autrichien qui vie présentement à New York. 
+Kurt Hentschläger est un artiste autrichien qui vie présentement à New York. Les installations qu'il réalise prennent place dans l'espace physique ainsi que virtuel. Il privilégie l'expérimentation et une approche interdisciplinaire dans son travail, ce qu'on peut voir avec ses installations audiovisuelles éphèmères et ses performances alliant art, musique et théâtre. De 1992 à 2003, il faisait partie de GRANULAR≈SYNTHESIS, un duo à l'avant-garde des arts médiatiques. De 2013 à 2018, il a enseigné à la School of the Art Institute of Chicago.²
 
 ### Année de réalisation
 2025
@@ -33,9 +33,9 @@ Kurt Hentschläger est un artiste autrichien qui vie présentement à New York.
 ![Cartel](media/cartel.jpg)
 
 ### Description de l'oeuvre
-Dans EVER MORE, Kurt Hentschläger explore l'émergence d'une nature hybride - une amalgamation des éléments physiques et virtuels qui se mélangent parfaitement. Des enregistrements vidéo de plantes et de fleurs sauvages des prairies du Michigan, montés, animés et composés, sont entrecoupés d'effets de synthèse 3D, d'éclairages et de paysages. ²
+Dans EVER MORE, Kurt Hentschläger explore l'émergence d'une nature hybride - une amalgamation des éléments physiques et virtuels qui se mélangent parfaitement. Des enregistrements vidéo de plantes et de fleurs sauvages des prairies du Michigan, montés, animés et composés, sont entrecoupés d'effets de synthèse 3D, d'éclairages et de paysages.³
 
-Ce caractère mouvant, qui pourrait suggérer une célébration du monde physique, masque en réalité l'exploitation, l'épuisement et l'accélération de la destruction des habitats naturels à travers le monde.²
+Ce caractère mouvant, qui pourrait suggérer une célébration du monde physique, masque en réalité l'exploitation, l'épuisement et l'accélération de la destruction des habitats naturels à travers le monde.³
 
 L'oeuvre est une vidéo d'une durée de 5 minutes et 17 secondes. Elle joue en répétition à une résolution de 4K.
 
@@ -87,7 +87,9 @@ Je n'ai pas vraiment compris le but de l'oeuvre. Il n'y pas d'instruction ou de 
 
 ¹ Kurt Hentschläger, « EVER MORE (2025) », 2025, https://kurthentschlager.com/EVER-MORE-2025
 
-² Musée des Beaux-Arts de Montréal, « Une œuvre de Kurt Hentschläger pour la Toile numérique », 9 octobre 2025, https://www.mbam.qc.ca/en/news/evermore/
+² Musée des Beaux-Arts de Montréal, « Kurt Hentschlager EVER MORE », 2026, https://www.mbam.qc.ca/fr/expositions/kurt-hentschlager-ever-more/
+
+³ Musée des Beaux-Arts de Montréal, « Une œuvre de Kurt Hentschläger pour la Toile numérique », 9 octobre 2025, https://www.mbam.qc.ca/fr/actualites/evermore
 
 ### Consultation
-https://www.mbam.qc.ca/en/news/evermore/
+https://www.mbam.qc.ca/fr/actualites/evermore
