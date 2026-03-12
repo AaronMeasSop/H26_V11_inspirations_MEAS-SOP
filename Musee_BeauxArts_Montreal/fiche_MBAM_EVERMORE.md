@@ -27,6 +27,8 @@ Kurt Hentschläger
 #### Description de l'artiste
 Kurt Hentschläger est un artiste autrichien qui vie présentement à New York. Les installations qu'il réalise prennent place dans l'espace physique ainsi que virtuel. Il privilégie l'expérimentation et une approche interdisciplinaire dans son travail, ce qu'on peut voir avec ses installations audiovisuelles éphèmères et ses performances alliant art, musique et théâtre. De 1992 à 2003, il faisait partie de GRANULAR≈SYNTHESIS, un duo à l'avant-garde des arts médiatiques. De 2013 à 2018, il a enseigné à la School of the Art Institute of Chicago.²
 
+Kurt Hentschläger a eu la possibilité de réaliser cette oeuvre 
+
 ### Année de réalisation
 2025
 
@@ -54,18 +56,18 @@ L'artiste utilise le musée comme canevas. C'est grâce à cela que l'on peut vo
 
 ![Croquis](media/croquis_plan.png)
 ### Mise en espace
-Pour voir l'oeuvre, il faut se mettre à l'autre bord de la rue du musée. Il y a un projecteur par dessus qui joue une vidéo sur le complet du musée. 
+Pour voir l'oeuvre, il faut se mettre à l'autre bord de la rue du musée. Il y a deux projecteurs par dessus qui joue une vidéo sur le complet du musée. 
 
 ---
 
 ### Composantes et techniques 
-Il n'y a que deux composantes visibles dans cette oeuvre. Ce sont le musée comme canevas et le projecteur pour démontrer l'image. Il est très fortement probable qu'il y a un ordinateur connectée au projecteur pour que la vidéo joue, mais on ne peut pas le voir. L'artiste a dû utilisé un grande espace, notamment la longueur d'une rue, pour pouvoir jouer la vidéo sur le musée complet.
+Il n'y a que deux composantes différentes visibles dans cette oeuvre. Ce sont le musée comme canevas et les projecteurs pour projetter l'image. Il est très fortement probable qu'il y a un ordinateur connectée aux projecteurs pour que la vidéo joue, mais on ne peut pas le voir. L'artiste a dû utilisé un grande espace, notamment la longueur d'une rue, pour pouvoir jouer la vidéo sur le musée complet. Il devait aussi prendre au compte que son canevas n'est pas une surface plate. Il devait s'assurer que la vidéo ne déborde pas du plan du musée et qu'il n'y avait pas de déformations possible avec les piliers qui sont en forme cylindriques.
 
 ---
 
 ![Projecteur](media/equipement_projecteur.jpg)
 ### Éléments nécessaires à la mise en exposition
-Il y a un projecteur installé dans une chambre qui projette la vidéo sur le musée à travers une fenêtre. L'autre élément est le musée pour se servir comme canevas au projection.
+Il y a deux projecteurs installés dans une chambre qui projette la vidéo sur le musée à travers une fenêtre. L'autre élément est le musée pour se servir comme canevas au projection.
 
 ---
 
@@ -76,12 +78,12 @@ Pour faire l'expérience de l'oeuvre, il faut se placer sur la rue de l'autre bo
 ---
 
 ### Ce qui m'a plu ou m'a donné des idées
-J'ai trouvé intéressant le moyen que l'artiste entreprend pour pouvoir animer le musée.
+J'ai trouvé intéressant le moyen que l'artiste entreprend pour pouvoir animer le musée. Il devait utiliser deux projecteurs pour éviter les aberrations physiques sur la façon que sa vidéo serait projettée.
 
 ---
 
 ### Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
-Je n'ai pas vraiment compris le but de l'oeuvre. Il n'y pas d'instruction ou de moyen intuitif de savoir ce que l'artiste voulait qu'on expérience. La cartel n'explique pas beaucoup. Il se peut aussi que les conditions météorologiques au moment que j'ai visité n'était pas favorable pour la visualisation.
+Il n'y pas d'instruction ou de moyen intuitif de savoir ce que l'artiste voulait qu'on expérience. La cartel n'explique pas beaucoup. Il se peut aussi que les conditions météorologiques au moment que j'ai visité n'était pas favorable pour la visualisation.
 
 ## Références
 
@@ -93,3 +95,5 @@ Je n'ai pas vraiment compris le but de l'oeuvre. Il n'y pas d'instruction ou de 
 
 ### Consultation
 https://www.mbam.qc.ca/fr/actualites/evermore
+https://www.mbam.qc.ca/fr/expositions/kurt-hentschlager-ever-more/
+https://kurthentschlager.com/EVER-MORE-2025
