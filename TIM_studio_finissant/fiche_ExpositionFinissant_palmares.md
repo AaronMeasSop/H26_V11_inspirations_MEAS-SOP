@@ -15,8 +15,11 @@ Noms des créateurs et créatrices
 - Walid Cheour
 
 Installation en cours (ou finale)
+(photo de l'ensemble de l'installation dans le studio)
 
 Schéma de l'installation prévue
+(schéma de mise en espace (plantation ou implantation))
+(télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier)
 
 Ce que je ressents en expérimentant chacune des installations, avec justifications
 
@@ -43,8 +46,11 @@ Noms des créateurs et créatrices
 - Jad Saloumi
 
 Installation en cours (ou finale)
+(photo de l'ensemble de l'installation dans le studio)
 
 Schéma de l'installation prévue
+(schéma de mise en espace (plantation ou implantation))
+(télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier)
 
 Ce que je ressents en expérimentant chacune des installations, avec justifications
 
@@ -71,8 +77,12 @@ Noms des créateurs et créatrices
 - Rafael Angon Dube
 
 Installation en cours (ou finale)
+(photo de l'ensemble de l'installation dans le studio)
 
 Schéma de l'installation prévue
+(schéma de mise en espace (plantation ou implantation))
+(télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier)
+
 
 Ce que je ressents en expérimentant chacune des installations, avec justifications
 
@@ -96,8 +106,11 @@ Noms des créateurs et créatrices
 - Kristy Moussally
 
 Installation en cours (ou finale)
+(photo de l'ensemble de l'installation dans le studio)
 
 Schéma de l'installation prévue
+(schéma de mise en espace (plantation ou implantation))
+(télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier)
 
 Ce que je ressents en expérimentant chacune des installations, avec justifications
 
@@ -124,8 +137,11 @@ Noms des créateurs et créatrices
 - Patricia Nassif
 
 Installation en cours (ou finale)
+(photo de l'ensemble de l'installation dans le studio)
 
 Schéma de l'installation prévue
+(schéma de mise en espace (plantation ou implantation))
+(télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier)
 
 Ce que je ressents en expérimentant chacune des installations, avec justifications
 
