@@ -15,7 +15,7 @@
 ![Ensemble Symbiose](media/ensemble_symbiose.png)
 
 ### Schéma de l'installation prévue
-![Schema Symbiose](media/synoptique_symbiose.png)
+![Synoptique Symbiose](media/synoptique_symbiose.png)
 ###### ¹ Synoptique de Symbiose 
 
 ### Ce que je ressents en expérimentant
@@ -32,6 +32,7 @@ J'ai trouvé le concept très intéressant, surtout car il nécessite de la coop
 
 - Arduino Nano
 
+---
 ---
 
 # Mission décollage 
@@ -55,7 +56,7 @@ J'ai trouvé le concept très intéressant, surtout car il nécessite de la coop
 ![Ensemble Mission Décollage](media/ensemble_mission_decollage.png)
 
 ### Schéma de l'installation prévue
-![Schema Mission Decollage](media/synoptique_mission_decollage.png)
+![Synoptique Mission Decollage](media/synoptique_mission_decollage.png)
 ###### ² Synoptique de Mission décollage
 
 ### Ce que je ressents en expérimentant 
@@ -72,14 +73,13 @@ Vue le grand plan que ce dispositif prend, il y a quand même un peu d'informati
 - Pure Data
 
 ---
+---
+
+# Arbre en face
 
 ### Ordre de préférence
 
 - 3
-
-### Titre du projet
-
-- Arbre en face
 
 ### Noms des créateurs et créatrices
 
@@ -93,7 +93,7 @@ Vue le grand plan que ce dispositif prend, il y a quand même un peu d'informati
 ![Ensemble Arbre en face](media/ensemble_arbre_en_face.png)
 
 ### Schéma de l'installation prévue
-![Schema Symbiose](media/synoptique_arbre_en_face.png)
+![Synoptique Arbre en face](media/synoptique_arbre_en_face.png)
 ###### ² Synoptique d'Arbre en face
 
 ### Ce que je ressents en expérimentant chacune des installations, avec justifications
@@ -103,25 +103,24 @@ Vue le grand plan que ce dispositif prend, il y a quand même un peu d'informati
 ### Nommer une technique ou une composante technogique qui est utilisée dans l'un des projets et que vous ne connaissiez pas
 
 ---
+---
+
+# Océan Rouge
 
 ### Ordre de préférence
 
 - 4
-
-### Titre du projet
-
-- Océan Rouge
 
 ### Noms des créateurs et créatrices
 
 - Amira Tounekti
 - Kristy Moussally
 
-### Installation en cours (ou finale)
+### Installation
 (photo de l'ensemble de l'installation dans le studio)
 
 ### Schéma de l'installation prévue
-![Schema Symbiose](media/schema_symbiose.png)
+![Synoptique Ocean Rouge](media/synoptique_ocean_rouge.png)
 
 ### Ce que je ressents en expérimentant chacune des installations, avec justifications
 
@@ -130,14 +129,12 @@ Vue le grand plan que ce dispositif prend, il y a quand même un peu d'informati
 ### Nommer une technique ou une composante technogique qui est utilisée dans l'un des projets et que vous ne connaissiez pas
 
 ---
+---
+# Quand les yeux se croisent
 
 ### Ordre de préférence
 
 - 5 
-
-### Titre du projet
-
-- Quand les yeux se croisent
 
 ### Noms des créateurs et créatrices
 
@@ -147,11 +144,11 @@ Vue le grand plan que ce dispositif prend, il y a quand même un peu d'informati
 - Manel Yaya
 - Patricia Nassif
 
-### Installation en cours (ou finale)
+### Installation
 (photo de l'ensemble de l'installation dans le studio)
 
 ### Schéma de l'installation prévue
-![Schema Symbiose](media/schema_symbiose.png)
+![Synoptique Quand les yeux se croisent](media/synoptique_qlysc.png)
 
 ### Ce que je ressents en expérimentant chacune des installations, avec justifications
 
