@@ -16,7 +16,7 @@
 
 ### Schéma de l'installation prévue
 ![Schema Symbiose](media/synoptique_symbiose.png)
-###### ¹ Planification de l'espace - perspective 2D 
+###### ¹ Synoptique de Symbiose 
 
 ### Ce que je ressents en expérimentant
 
@@ -161,4 +161,6 @@ Vue le grand plan que ce dispositif prend, il y a quand même un peu d'informati
 ---
 
 ### Références
-¹ Équipe Symbiose, « Symbiose », Planification de l'espace - perspective 2D,  2026, 2d_plan.webp, https://les-chimistes.github.io/symbiose/#/technique/
+¹ Équipe Symbiose du Collège Montmorency, « Symbiose », Planification de l'espace - perspective 2D, 2d_plan.webp, 2026, https://les-chimistes.github.io/symbiose/#/technique/?id=synoptique
+
+² Équipe Mission décollage du Collège Montmorency, « Mission décollage », synoptique, synoptique.png, 2026, https://o-i-g-n-o-n.github.io/Mission-decollage/#/technique/?id=synoptique

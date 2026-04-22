@@ -64,8 +64,8 @@ TERMINAL est une installation interactive pouvant accueillir jusqu'à 6 joueurs.
 ---
 
 ### Composantes et techniques 
-![Sypnotique Terminal](media/synoptique_terminal.png)
-###### ¹ Sypnotique
+![Synoptique Terminal](media/synoptique_terminal.png)
+###### ¹ Synoptique de Terminal
 
 ---
 
@@ -92,6 +92,6 @@ Je n'ai rien vraiment trouver de truc que je n'ai pas apprecié ou que je change
 
 ### Références
 
-¹ Équipe Terminal de Montmorency, « Terminal », Sypnotique, Sypnotique.png, 2026, https://pythons-5.github.io/Terminal/#/technique/
+¹ Équipe Terminal de Montmorency, « Terminal », Synoptique, Synoptique.png, 2026, https://pythons-5.github.io/Terminal/#/technique/
 
 ² Équipe Terminal de Montmorency, « Terminal », 2026, https://pythons-5.github.io/Terminal/#/concept/
