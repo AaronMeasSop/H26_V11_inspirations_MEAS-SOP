@@ -1,30 +1,31 @@
-Nom de l'exposition ou de l'événement
 
-- Réseau vivant
+# Réseau vivant
 
 [Affiche de l'exposition]
 
-Lieu de mise en exposition
+#### Lieu de mise en exposition
 
 - Grand studio C-1712, Collège Montmorency, 475 Bd de l'Avenir, Laval, QC H7N 5H9
 
 [Moi devant l'entrée de l'édifice]
 
-Type d'exposition (temp/perm/int/ext)
+#### Type d'exposition
 
 - Temporaire et intérieur
 
-Date de visite
+#### Date de visite
 
-18 mars 2026
+- 18 mars 2026
 
-Titre de l'oeuvre
+---
+
+### Titre du dispositif
 
 - Terminal
 
-[Vue d'ensemble de l'oeuvre
+[Vue d'ensemble de l'oeuvre]
 
-Nom de l'artiste
+Nom des artistes
 
 - Émeryk Bélisle
 - Elie Daher
@@ -32,21 +33,22 @@ Nom de l'artiste
 - Dana Saavedra-Torrano
 - Mégane Ranger
 
-Année de réalisation
+#### Année de réalisation
 
-2026
-
-Description de l'oeuvre ou du dispositif
-
--TERMINAL est une installation interactive pouvant accueillir jusqu'à 6 joueurs. Chaque joueur contrôle un opérateur via la manette sur son téléphone pour restaurer un ancien réseau informatique piraté par un pirate informatique. Lorsque les joueurs se déplacent, une ligne suit leur trajectoire et devient un obstacle pour les autres opérateurs. L'objectif est que tous les joueurs atteignent la fin des niveaux sans être éliminés par les obstacles laissés par le pirate ou les traces des autres. En cas d'élimination, toute l'équipe doit recommencer le niveau depuis le début. Au fur et à mesure de la progression, les niveaux deviennent de plus en plus complexes, introduisant des boutons qui ouvrent des passages, des obstacles mobiles et bien d'autres défis nécessitant communication et coordination.
+- 2026
 
 [Cartel pour un oeuvre]
 [Diverses vues]
-(Texte explicatif pour un dispositif)
---À composer ou reprendre la description offerte sur le site de l'artiste ou sur le cartel en indiquant bien sa source
+
+### Description du dispositif
+
+TERMINAL est une installation interactive pouvant accueillir jusqu'à 6 joueurs. Chaque joueur contrôle un opérateur via la manette sur son téléphone pour restaurer un ancien réseau informatique piraté par un pirate informatique. Lorsque les joueurs se déplacent, une ligne suit leur trajectoire et devient un obstacle pour les autres opérateurs. L'objectif est que tous les joueurs atteignent la fin des niveaux sans être éliminés par les obstacles laissés par le pirate ou les traces des autres. En cas d'élimination, toute l'équipe doit recommencer le niveau depuis le début. Au fur et à mesure de la progression, les niveaux deviennent de plus en plus complexes, introduisant des boutons qui ouvrent des passages, des obstacles mobiles et bien d'autres défis nécessitant communication et coordination.
 
 
-Type d'installation (contemplative, immersive, interactive)
+#### Type d'installation 
+
+- Interactive
+
 [Vue descriptive - vidéo OU photo qui permet de comprendre le type d'installation]
 
 Fonction du dispositif multimédia (scénographie, mise en valeur, mise en contexte, support pédagogique, diffusion du patrimoine immatériel)
@@ -56,7 +58,8 @@ Mise en espace
 [Croquis de la mise en espace (plan ou élévation selon ce qui facilite la compréhension, avec légende et dimensions)]
 
 Composantes et techniques 
-[Parties composantes de l'oeuvre ou du dispositif (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires)]
+[Parties composantes de l'oeuvre ou du dispositif (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires)] utiliser l'image 
+¹
 
 Éléments nécessaires à la mise en exposition
 [Éléments de mise en exposition (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires)]
@@ -71,3 +74,5 @@ Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que v
 [Éléments pertinents]
 
 Références
+
+¹ Équipe Terminal de Montmorency, « TERMINAL », 2026, https://pythons-5.github.io/Terminal/#/technique/
