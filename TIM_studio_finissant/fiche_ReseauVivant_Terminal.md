@@ -64,7 +64,7 @@ TERMINAL est une installation interactive pouvant accueillir jusqu'à 6 joueurs.
 ---
 
 ### Composantes et techniques 
-![Sypnotique Terminal](media/sypnotique_terminal.png)
+![Sypnotique Terminal](media/synoptique_terminal.png)
 ###### ¹ Sypnotique
 
 ---
