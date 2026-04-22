@@ -18,8 +18,8 @@
 (photo de l'ensemble de l'installation dans le studio)
 
 ### Schéma de l'installation prévue
-(schéma de mise en espace (plantation ou implantation))
-(télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier)
+
+###### ¹ Planification de l'espace - perspective 2D 
 
 ### Ce que je ressents en expérimentant chacune des installations, avec justifications
 
@@ -30,7 +30,7 @@ J'ai trouvé le concept très intéressant, surtout car il nécessite de la coop
 - Traitement audiovisuel
 - Interactivité ludique
 
-### Une technique ou une composante technogique qui est utilisée dans ce projet et que je ne connaissais pas
+### Une composante technogique qui est utilisée dans ce projet et que je ne connaissais pas
 
 - Arduino Nano
 
@@ -52,18 +52,20 @@ J'ai trouvé le concept très intéressant, surtout car il nécessite de la coop
 - Thearylou Lach
 - Jad Saloumi
 
-Installation en cours (ou finale)
+---
+
+### Installation
 (photo de l'ensemble de l'installation dans le studio)
 
-Schéma de l'installation prévue
+### Schéma de l'installation prévue
 (schéma de mise en espace (plantation ou implantation))
 (télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier)
 
-Ce que je ressents en expérimentant chacune des installations, avec justifications
+### Ce que je ressents en expérimentant chacune des installations, avec justifications
 
-Nommer 3 cours du programme qui me semble incontournable pour avoir les compétences pour créer ce genre de projet
+### Nommer 3 cours du programme qui me semble incontournable pour avoir les compétences pour créer ce genre de projet
 
-Nommer une technique ou une composante technogique qui est utilisée dans l'un des projets et que vous ne connaissiez pas
+### Nommer une technique ou une composante technogique qui est utilisée dans l'un des projets et que vous ne connaissiez pas
 
 ---
 
@@ -156,3 +158,7 @@ Nommer 3 cours du programme qui me semble incontournable pour avoir les compéte
 
 Nommer une technique ou une composante technogique qui est utilisée dans l'un des projets et que vous ne connaissiez pas
 
+---
+
+### Références
+¹ Équipe Symbiose, « Symbiose », Planification de l'espace - perspective 2D,  2026, 2d_plan.webp, https://les-chimistes.github.io/symbiose/#/technique/

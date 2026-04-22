@@ -88,8 +88,10 @@ En entrant dans le grand studio, les personnes lisent le cartel sur notre projet
 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 [Éléments pertinents]
 
-Références
+---
 
-¹ Équipe Terminal de Montmorency, « TERMINAL », 2026, https://pythons-5.github.io/Terminal/#/technique/
+### Références
 
-² Équipe Terminal de Montmorency, « TERMINAL », 2026, https://pythons-5.github.io/Terminal/#/concept/
+¹ Équipe Terminal de Montmorency, « Terminal », 2026, https://pythons-5.github.io/Terminal/#/technique/
+
+² Équipe Terminal de Montmorency, « Terminal », 2026, https://pythons-5.github.io/Terminal/#/concept/
