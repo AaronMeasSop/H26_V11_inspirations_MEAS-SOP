@@ -94,6 +94,7 @@ Vue le grand plan que ce dispositif prend, il y a quand même un peu d'informati
 
 ### Schéma de l'installation prévue
 ![Schema Symbiose](media/synoptique_arbre_en_face.png)
+###### ² Synoptique d'Arbre en face
 
 ### Ce que je ressents en expérimentant chacune des installations, avec justifications
 
