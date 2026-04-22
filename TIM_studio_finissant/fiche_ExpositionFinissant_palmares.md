@@ -15,17 +15,18 @@
 - Walid Cheour
 ---
 ### Installation
-(photo de l'ensemble de l'installation dans le studio)
+![Ensemble Symbiose](media/ensemble_symbiose.png)
 
 ### Schéma de l'installation prévue
 ![Schema Symbiose](media/schema_symbiose.png)
 ###### ¹ Planification de l'espace - perspective 2D 
 
-### Ce que je ressents en expérimentant chacune des installations, avec justifications
+### Ce que je ressents en expérimentant
 
 J'ai trouvé le concept très intéressant, surtout car il nécessite de la coopération avec les autres joueurs. J'ai aimé que les manettes pour jouer à un jeu ne sont pas traditionnelles, mais plutôt des outils scientifiques, comme l'erlenmeyer.
 
 ### 3 cours du programme qui me semble incontournable pour avoir les compétences pour créer ce genre de projet
+
 - Objets interactifs
 - Traitement audiovisuel
 - Interactivité ludique
