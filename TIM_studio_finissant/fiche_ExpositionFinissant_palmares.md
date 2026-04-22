@@ -170,3 +170,7 @@ J'étais confus de base, car je ne comprennais pas le but du dispositif. J'avais
 ¹ Équipe Symbiose du Collège Montmorency, « Symbiose », Planification de l'espace - perspective 2D, 2d_plan.webp, 2026, https://les-chimistes.github.io/symbiose/#/technique/?id=synoptique
 
 ² Équipe Mission décollage du Collège Montmorency, « Mission décollage », synoptique, synoptique.png, 2026, https://o-i-g-n-o-n.github.io/Mission-decollage/#/technique/?id=synoptique
+
+Équipe Arbre en face du Collège Montmorency, « Arbre en face »
+
+Equipe Océan Rouge du Collège Montmorency, « Océan Rouge », Synoptique, Synoptique.png, 2026, https://deux-intelligence.github.io/deux-neurones/#/technique/?id=synoptique
