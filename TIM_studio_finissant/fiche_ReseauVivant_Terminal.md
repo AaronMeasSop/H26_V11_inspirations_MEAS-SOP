@@ -25,7 +25,7 @@
 
 [Vue d'ensemble de l'oeuvre]
 
-Nom des artistes
+### Noms des créateurs et créatrices
 
 - Émeryk Bélisle
 - Elie Daher

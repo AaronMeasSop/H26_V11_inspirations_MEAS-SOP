@@ -1,43 +1,50 @@
 
-Ordre de préférence
+### Ordre de préférence
 
 - 1
 
-Titre du projet
+### Titre du projet
 
 - Symbiose
 
-Noms des créateurs et créatrices
+### Noms des créateurs et créatrices
 
 - Yannick Chamberland
 - Benjamin Ferland
-- Ryan Dfault
+- Ryan Dufault
 - Walid Cheour
-
-Installation en cours (ou finale)
+---
+### Installation
 (photo de l'ensemble de l'installation dans le studio)
 
-Schéma de l'installation prévue
+### Schéma de l'installation prévue
 (schéma de mise en espace (plantation ou implantation))
 (télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier)
 
-Ce que je ressents en expérimentant chacune des installations, avec justifications
+### Ce que je ressents en expérimentant chacune des installations, avec justifications
 
-Nommer 3 cours du programme qui me semble incontournable pour avoir les compétences pour créer ce genre de projet
+J'ai trouvé le concept très intéressant, surtout car il nécessite de la coopération avec les autres joueurs. J'ai aimé que les manettes pour jouer à un jeu ne sont pas traditionnelles, mais plutôt des outils scientifiques, comme l'erlenmeyer.
 
-Nommer une technique ou une composante technogique qui est utilisée dans l'un des projets et que vous ne connaissiez pas
+### 3 cours du programme qui me semble incontournable pour avoir les compétences pour créer ce genre de projet
+- Objets interactifs
+- Traitement audiovisuel
+- Interactivité ludique
+
+### Une technique ou une composante technogique qui est utilisée dans ce projet et que je ne connaissais pas
+
+- Arduino Nano
 
 ---
 
-Ordre de préférence
+### Ordre de préférence
 
 - 2
 
-Titre du projet 
+### Titre du projet 
 
 - Mission Décollage
 
-Noms des créateurs et créatrices
+### Noms des créateurs et créatrices
 
 - Ahmed Kaissoumi
 - Radhouane Kordan
