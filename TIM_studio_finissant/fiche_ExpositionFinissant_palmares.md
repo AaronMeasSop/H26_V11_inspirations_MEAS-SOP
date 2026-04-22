@@ -96,11 +96,17 @@ Vue le grand plan que ce dispositif prend, il y a quand même un peu d'informati
 ![Synoptique Arbre en face](media/synoptique_arbre_en_face.png)
 ###### ² Synoptique d'Arbre en face
 
-### Ce que je ressents en expérimentant chacune des installations, avec justifications
+### Ce que je ressents en expérimentant
+J'étais confus de base, car je ne comprennais pas le but du dispositif. J'avais vu ma face sur la projection, mais je ne savais pas d'où ma photo étais prise.
 
 ### Nommer 3 cours du programme qui me semble incontournable pour avoir les compétences pour créer ce genre de projet
+- Photographie
+- Interactivité ludique
+- Programmation interactive
+
 
 ### Nommer une technique ou une composante technogique qui est utilisée dans l'un des projets et que vous ne connaissiez pas
+- BC204
 
 ---
 ---
@@ -121,8 +127,10 @@ Vue le grand plan que ce dispositif prend, il y a quand même un peu d'informati
 
 ### Schéma de l'installation prévue
 ![Synoptique Ocean Rouge](media/synoptique_ocean_rouge.png)
+###### Synoptique Océan Rouge
 
-### Ce que je ressents en expérimentant chacune des installations, avec justifications
+### Ce que je ressents en expérimentant
+
 
 ### Nommer 3 cours du programme qui me semble incontournable pour avoir les compétences pour créer ce genre de projet
 
