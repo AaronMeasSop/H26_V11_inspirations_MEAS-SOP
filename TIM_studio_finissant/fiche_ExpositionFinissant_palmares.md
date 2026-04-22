@@ -59,11 +59,14 @@ J'ai trouvé le concept très intéressant, surtout car il nécessite de la coop
 (photo de l'ensemble de l'installation dans le studio)
 
 ### Schéma de l'installation prévue
-![Schema Mission Decollage](media/schema_missionDecollage.png)
+![Schema Mission Decollage](media/schema_mission_decollage.png)
 
-### Ce que je ressents en expérimentant chacune des installations, avec justifications
+### Ce que je ressents en expérimentant 
+Vue le grand plan que ce dispositif prend, il y a quand même un peu d'information a absorber. J'ai aimé l'aspect social où que c'est nécessaire de se communiquer pour accomplir des tâches.
 
 ### Nommer 3 cours du programme qui me semble incontournable pour avoir les compétences pour créer ce genre de projet
+
+- 
 
 ### Nommer une technique ou une composante technogique qui est utilisée dans l'un des projets et que vous ne connaissiez pas
 
