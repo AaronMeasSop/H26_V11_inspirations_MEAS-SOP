@@ -12,7 +12,7 @@
 - Walid Cheour
 ---
 ### Installation
-![Ensemble Symbiose](media/ensemble_symbiose.png)
+![Ensemble Symbiose](media/ensemble_symbiose.jpg)
 
 ### Schéma de l'installation prévue
 ![Synoptique Symbiose](media/synoptique_symbiose.png)
@@ -53,7 +53,7 @@ J'ai trouvé le concept très intéressant, surtout car il nécessite de la coop
 ---
 
 ### Installation
-![Ensemble Mission Décollage](media/ensemble_mission_decollage.png)
+![Ensemble Mission Décollage](media/ensemble_mission_decollage.jpg)
 
 ### Schéma de l'installation prévue
 ![Synoptique Mission Decollage](media/synoptique_mission_decollage.png)
@@ -90,7 +90,7 @@ Vue le grand plan que ce dispositif prend, il y a quand même un peu d'informati
 - Rafael Angon Dube
 
 ### Installation
-![Ensemble Arbre en face](media/ensemble_arbre_en_face.png)
+![Ensemble Arbre en face](media/ensemble_arbre_en_face.jpg)
 
 ### Schéma de l'installation prévue
 ![Synoptique Arbre en face](media/synoptique_arbre_en_face.png)
@@ -123,7 +123,7 @@ J'étais confus de base, car je ne comprennais pas le but du dispositif. J'avais
 - Kristy Moussally
 
 ### Installation
-![Ensemble Ocean Rouge](media/ensemble_ocean_rouge.png)
+![Ensemble Ocean Rouge](media/ensemble_ocean_rouge.jpg)
 
 ### Schéma de l'installation prévue
 ![Synoptique Ocean Rouge](media/synoptique_ocean_rouge.png)
@@ -157,7 +157,7 @@ Je manie une manche avec un bouton au dessus pour bouger ma caméra et ensuite �
 - Patricia Nassif
 
 ### Installation
-![Ensemble Quand les yeux se croisent](media/ensemble_qlysc.png)
+![Ensemble Quand les yeux se croisent](media/ensemble_qlysc.jpg)
 
 ### Schéma de l'installation prévue
 ![Synoptique Quand les yeux se croisent](media/synoptique_qlysc.png)
