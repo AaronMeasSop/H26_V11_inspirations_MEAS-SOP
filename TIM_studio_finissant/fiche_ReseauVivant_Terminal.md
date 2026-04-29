@@ -34,7 +34,7 @@
 - 2026
 
 
-=======
+---
 
 ![Cartel](media/cartel_terminal.jpg)
 

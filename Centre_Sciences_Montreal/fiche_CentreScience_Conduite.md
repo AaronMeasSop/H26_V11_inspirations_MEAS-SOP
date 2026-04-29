@@ -36,10 +36,10 @@ voir la video
 - 2026
 
 
-=======
+---
 
-![Cartel]
-[Diverses vues]
+
+![Pancarte](media/affiche_dispositif.jpg)
 
 ### Description du dispositif
 
