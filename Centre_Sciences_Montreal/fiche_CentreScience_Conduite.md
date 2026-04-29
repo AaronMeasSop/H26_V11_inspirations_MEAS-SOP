@@ -47,7 +47,7 @@ L'apprentissage par renforcemenent est un des nombreux outils utilisés par Ubis
 ### Type d'installation
 - Interactive
 
-![Voir la vidéo](media/video_dispositif.mp4)
+<video>![Voir la vidéo](media/video_enjeu.mp4)</video>
 
 ---
 
