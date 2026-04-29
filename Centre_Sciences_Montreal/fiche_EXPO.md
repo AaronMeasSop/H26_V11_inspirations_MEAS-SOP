@@ -1,4 +1,5 @@
-
+voir la video
+![voir la video](media/video_dispositif.mp4)
 
 # Réseau vivant
 
@@ -13,7 +14,7 @@
 - 
 
 ### Type d'exposition
-- Temporaire et intérieur
+- Permanent et intérieur
 
 ### Date de visite
 -  2026
