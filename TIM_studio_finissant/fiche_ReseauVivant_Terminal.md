@@ -37,7 +37,6 @@
 =======
 
 ![Cartel](media/cartel_terminal.jpg)
-[Diverses vues]
 
 ### Description du dispositif
 TERMINAL est une installation interactive pouvant accueillir jusqu'à 6 joueurs. Chaque joueur contrôle un opérateur via la manette sur son téléphone pour restaurer un ancien réseau informatique piraté par un pirate informatique. Lorsque les joueurs se déplacent, une ligne suit leur trajectoire et devient un obstacle pour les autres opérateurs. L'objectif est que tous les joueurs atteignent la fin des niveaux sans être éliminés par les obstacles laissés par le pirate ou les traces des autres. En cas d'élimination, toute l'équipe doit recommencer le niveau depuis le début. Au fur et à mesure de la progression, les niveaux deviennent de plus en plus complexes, introduisant des boutons qui ouvrent des passages, des obstacles mobiles et bien d'autres défis nécessitant communication et coordination. ¹
