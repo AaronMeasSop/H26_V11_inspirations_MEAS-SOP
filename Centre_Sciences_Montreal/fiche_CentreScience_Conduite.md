@@ -47,7 +47,7 @@ L'apprentissage par renforcemenent est un des nombreux outils utilisés par Ubis
 ### Type d'installation
 - Interactive
 
-![Voir la vidéo](https://youtu.be/_6WwBJ8vjoI)
+![Voir la vidéo](https://youtu.be/_6WwBJ8vjoI?si=blf3N7E1GBHNWq9G)
 
 ---
 
@@ -57,7 +57,7 @@ Le but du dispositif est d'approfondir sur l'importance de conduire de façon s�
 ---
 
 ### Mise en espace
-![Plan]
+![Plan](media/plan.png)
 
 ---
 
