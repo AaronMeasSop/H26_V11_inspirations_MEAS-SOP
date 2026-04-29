@@ -3,52 +3,47 @@
 
 [Affiche de l'exposition]
 
-#### Lieu de mise en exposition
+### Lieu de mise en exposition
 
 - Grand studio C-1712, Collège Montmorency, 475 Bd de l'Avenir, Laval, QC H7N 5H9
 
 [Moi devant l'entrée de l'édifice]
 
-#### Type d'exposition
-
-- Temporaire et intérieur
-
-#### Date de visite
-
-- 18 mars 2026
-
 ---
 
-### Titre du dispositif
+### Type d'exposition
+Temporaire et intérieur
 
-- Terminal
+### Date de visite
+- 18 mars 2026
+
+### Titre de l'oeuvre
+- TERMINAL
 
 [Vue d'ensemble de l'oeuvre]
 
-### Noms des créateurs et créatrices
-
+### Nom des artistes
 - Émeryk Bélisle
 - Elie Daher
 - Ting Yung Lu Terry
 - Dana Saavedra-Torrano
 - Mégane Ranger
 
-#### Année de réalisation
 
+### Année de réalisation
 - 2026
 
+TERMINAL est une installation interactive pouvant accueillir jusqu'à 6 joueurs. Chaque joueur contrôle un opérateur via la manette sur son téléphone pour restaurer un ancien réseau informatique piraté par un pirate informatique. Lorsque les joueurs se déplacent, une ligne suit leur trajectoire et devient un obstacle pour les autres opérateurs. L'objectif est que tous les joueurs atteignent la fin des niveaux sans être éliminés par les obstacles laissés par le pirate ou les traces des autres. En cas d'élimination, toute l'équipe doit recommencer le niveau depuis le début. Au fur et à mesure de la progression, les niveaux deviennent de plus en plus complexes, introduisant des boutons qui ouvrent des passages, des obstacles mobiles et bien d'autres défis nécessitant communication et coordination.
+
+=======
+>>>>>>> 97865f6350a55c96220b7a94ba996222011b01e8
 [Cartel pour un oeuvre]
 [Diverses vues]
 
 ### Description du dispositif
 
-TERMINAL est une installation interactive pouvant accueillir jusqu'à 6 joueurs. Chaque joueur contrôle un opérateur via la manette sur son téléphone pour restaurer un ancien réseau informatique piraté par un pirate informatique. Lorsque les joueurs se déplacent, une ligne suit leur trajectoire et devient un obstacle pour les autres opérateurs. L'objectif est que tous les joueurs atteignent la fin des niveaux sans être éliminés par les obstacles laissés par le pirate ou les traces des autres. En cas d'élimination, toute l'équipe doit recommencer le niveau depuis le début. Au fur et à mesure de la progression, les niveaux deviennent de plus en plus complexes, introduisant des boutons qui ouvrent des passages, des obstacles mobiles et bien d'autres défis nécessitant communication et coordination.
 
-
-#### Type d'installation 
-
-- Interactive
-
+Type d'installation (contemplative, immersive, interactive)
 [Vue descriptive - vidéo OU photo qui permet de comprendre le type d'installation]
 
 ---

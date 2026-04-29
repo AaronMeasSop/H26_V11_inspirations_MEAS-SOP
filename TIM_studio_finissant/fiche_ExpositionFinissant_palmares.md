@@ -123,18 +123,22 @@ J'étais confus de base, car je ne comprennais pas le but du dispositif. J'avais
 - Kristy Moussally
 
 ### Installation
-(photo de l'ensemble de l'installation dans le studio)
+![Ensemble Ocean Rouge](media/ensemble_ocean_rouge.png)
 
 ### Schéma de l'installation prévue
 ![Synoptique Ocean Rouge](media/synoptique_ocean_rouge.png)
 ###### Synoptique Océan Rouge
 
 ### Ce que je ressents en expérimentant
-
+Je manie une manche avec un bouton au dessus pour bouger ma caméra et ensuite étirer le bras du jeu pour nettoyer un océan.
 
 ### Nommer 3 cours du programme qui me semble incontournable pour avoir les compétences pour créer ce genre de projet
+- Animation 2D
+- Audio
+- Programmation interactive
 
 ### Nommer une technique ou une composante technogique qui est utilisée dans l'un des projets et que vous ne connaissiez pas
+- Wavetable 
 
 ---
 ---
@@ -153,17 +157,21 @@ J'étais confus de base, car je ne comprennais pas le but du dispositif. J'avais
 - Patricia Nassif
 
 ### Installation
-(photo de l'ensemble de l'installation dans le studio)
+![Ensemble Quand les yeux se croisent](media/ensemble_qlysc.png)
 
 ### Schéma de l'installation prévue
 ![Synoptique Quand les yeux se croisent](media/synoptique_qlysc.png)
 
 ### Ce que je ressents en expérimentant chacune des installations, avec justifications
+Je vois plusieurs écrans jouer des vidéos différentes. J'entends du son jouer du dispositif.
 
 ### Nommer 3 cours du programme qui me semble incontournable pour avoir les compétences pour créer ce genre de projet
+- Audio
+- Video
+- Interactivité ludique
 
 ### Nommer une technique ou une composante technogique qui est utilisée dans l'un des projets et que vous ne connaissiez pas
-
+- Raspberry Pi
 ---
 
 ### Références
@@ -171,6 +179,8 @@ J'étais confus de base, car je ne comprennais pas le but du dispositif. J'avais
 
 ² Équipe Mission décollage du Collège Montmorency, « Mission décollage », synoptique, synoptique.png, 2026, https://o-i-g-n-o-n.github.io/Mission-decollage/#/technique/?id=synoptique
 
-Équipe Arbre en face du Collège Montmorency, « Arbre en face »
+Équipe Arbre en face du Collège Montmorency, « Arbre en face », 2026, 
 
-Equipe Océan Rouge du Collège Montmorency, « Océan Rouge », Synoptique, Synoptique.png, 2026, https://deux-intelligence.github.io/deux-neurones/#/technique/?id=synoptique
+Equipe Océan rouge du Collège Montmorency, « Océan Rouge », Synoptique, Synoptique.png, 2026, https://deux-intelligence.github.io/deux-neurones/#/technique/?id=synoptique
+
+Equipe Quand les yeux se croisent du Collège Montmorency, 2026, 
