@@ -180,7 +180,7 @@ Je vois plusieurs écrans jouer des vidéos différentes. J'entends du son jouer
 
 ² Équipe Mission décollage du Collège Montmorency, « Mission décollage », synoptique, synoptique.png, 2026, https://o-i-g-n-o-n.github.io/Mission-decollage/#/technique/?id=synoptique
 
-³ Équipe Arbre en face du Collège Montmorency, « Arbre en face », 2026, Synoptique, 516570083-b8510cba-cdbe-4364-be41-10b1d93caa0f.webp, 2026, https://mammouths.github.io/projet/#/technique/?id=synoptique
+³ Équipe Arbre en face du Collège Montmorency, « Arbre en face », Synoptique, 516570083-b8510cba-cdbe-4364-be41-10b1d93caa0f.webp, 2026, https://mammouths.github.io/projet/#/technique/?id=synoptique
 
 ⁴ Equipe Océan rouge du Collège Montmorency, « Océan Rouge », Synoptique, Synoptique.png, 2026, https://deux-intelligence.github.io/deux-neurones/#/technique/?id=synoptique
 
