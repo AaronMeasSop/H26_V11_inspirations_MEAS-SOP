@@ -1,31 +1,36 @@
 voir la video
 ![voir la video](media/video_dispositif.mp4)
 
-# Réseau vivant
+# Explore l'arrière-scène
 
-![Affiche]
+![Affiche](media/affiche_expo.jpg)
 
-![Moi]
+![Moi](media/moi_devant.jpg)
 
 ---
 
 ### Lieu de mise en exposition
 
-- 
+- 2 De la Commune St W, Montreal, Quebec H2Y 4B2
 
 ### Type d'exposition
 - Permanent et intérieur
 
 ### Date de visite
--  2026
+-  23 avril 2026
 
 ### Titre de l'oeuvre
-#### - 
+#### - Intelligente, la conduite?
 
-![Ensemble]
+![Ensemble](media/lieu_entree.jpg)
 
-### Nom des artistes
-
+### Nom des créateurs
+- Elisabeth Doyon
+- Adrien Logut
+- Andrea Feder
+- L'équipe de Watch_Dogs 2
+- Ubisoft La Forge
+- Ubisoft Groupe Technologique
 
 ### Année de réalisation
 - 2026
@@ -81,3 +86,7 @@ voir la video
 ---
 
 ### Références
+
+https://siecledigital.fr/2019/12/30/ubisoft-appris-voiture-conduire-seule-jeu-de-course/
+
+https://www.youtube.com/watch?v=bmrNMDEkPyQ&feature=youtu.be
