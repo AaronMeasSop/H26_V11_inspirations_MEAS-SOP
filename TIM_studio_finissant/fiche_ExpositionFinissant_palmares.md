@@ -94,7 +94,7 @@ Vue le grand plan que ce dispositif prend, il y a quand même un peu d'informati
 
 ### Schéma de l'installation prévue
 ![Synoptique Arbre en face](media/synoptique_arbre_en_face.png)
-###### ² Synoptique d'Arbre en face
+###### ³ Synoptique d'Arbre en face
 
 ### Ce que je ressents en expérimentant
 J'étais confus de base, car je ne comprennais pas le but du dispositif. J'avais vu ma face sur la projection, mais je ne savais pas d'où ma photo étais prise.
@@ -127,7 +127,7 @@ J'étais confus de base, car je ne comprennais pas le but du dispositif. J'avais
 
 ### Schéma de l'installation prévue
 ![Synoptique Ocean Rouge](media/synoptique_ocean_rouge.png)
-###### Synoptique Océan Rouge
+###### ⁴ Synoptique d'Océan Rouge
 
 ### Ce que je ressents en expérimentant
 Je manie une manche avec un bouton au dessus pour bouger ma caméra et ensuite étirer le bras du jeu pour nettoyer un océan.
@@ -147,6 +147,7 @@ Je manie une manche avec un bouton au dessus pour bouger ma caméra et ensuite �
 ### Ordre de préférence
 
 - 5 
+###### ⁵ Synoptique de Quand les yeux se croisent
 
 ### Noms des créateurs et créatrices
 
@@ -175,12 +176,12 @@ Je vois plusieurs écrans jouer des vidéos différentes. J'entends du son jouer
 ---
 
 ### Références
-¹ Équipe Symbiose du Collège Montmorency, « Symbiose », Planification de l'espace - perspective 2D, 2d_plan.webp, 2026, https://les-chimistes.github.io/symbiose/#/technique/?id=synoptique
+¹ Équipe Symbiose du Collège Montmorency, « Symbiose », Plan de branchements, synoptique.svg, 2026, https://les-chimistes.github.io/symbiose/#/technique/?id=synoptique
 
 ² Équipe Mission décollage du Collège Montmorency, « Mission décollage », synoptique, synoptique.png, 2026, https://o-i-g-n-o-n.github.io/Mission-decollage/#/technique/?id=synoptique
 
-Équipe Arbre en face du Collège Montmorency, « Arbre en face », 2026, 
+³ Équipe Arbre en face du Collège Montmorency, « Arbre en face », 2026, Synoptique, 516570083-b8510cba-cdbe-4364-be41-10b1d93caa0f.webp, 2026, https://mammouths.github.io/projet/#/technique/?id=synoptique
 
-Equipe Océan rouge du Collège Montmorency, « Océan Rouge », Synoptique, Synoptique.png, 2026, https://deux-intelligence.github.io/deux-neurones/#/technique/?id=synoptique
+⁴ Equipe Océan rouge du Collège Montmorency, « Océan Rouge », Synoptique, Synoptique.png, 2026, https://deux-intelligence.github.io/deux-neurones/#/technique/?id=synoptique
 
-Equipe Quand les yeux se croisent du Collège Montmorency, 2026, 
+⁵ Equipe Quand les yeux se croisent du Collège Montmorency, Branchements, image.png, 2026, https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/technique/?id=branchements
