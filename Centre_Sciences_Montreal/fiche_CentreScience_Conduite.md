@@ -32,7 +32,7 @@
 - Ubisoft Groupe Technologique
 
 ### Année de réalisation
-- 2026
+- 2019
 
 
 ---
@@ -41,7 +41,7 @@
 ![Pancarte](media/affiche_dispositif.jpg)
 
 ### Description du dispositif
-L'apprentissage par renforcemenent est un des nombreux outils utilisés par Ubisoft pour entrainer des intelligences artificielles. L'idée est de récompenser les bons comportements et décourager les mauvais. Est-ce que ça te rappelle quelque chose?
+L'apprentissage par renforcement est un des nombreux outils utilisés par Ubisoft pour entrainer des intelligences artificielles. L'idée est de récompenser les bons comportements et décourager les mauvais. Est-ce que ça te rappelle quelque chose? ¹
 
 
 ### Type d'installation
@@ -89,6 +89,8 @@ Desfois, des paramètres sur l'écran tactile n'étaient pas faciles à comprend
 ---
 
 ### Références
+
+¹ UBISOFT, « Intelligente, la conduite? », 2019
 
 https://siecledigital.fr/2019/12/30/ubisoft-appris-voiture-conduire-seule-jeu-de-course/
 
