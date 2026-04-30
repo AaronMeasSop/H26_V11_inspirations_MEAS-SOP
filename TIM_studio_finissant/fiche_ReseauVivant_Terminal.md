@@ -67,7 +67,7 @@ TERMINAL est une installation interactive pouvant accueillir jusqu'à 6 joueurs.
 ---
 
 ### Éléments nécessaires à la mise en exposition
-- 6 Poufs gonflable
+- 6 poufs gonflable
 - Podium avec code QR
 - Fairy Lights
 - Abonnement NGrok 2 mois
@@ -75,15 +75,15 @@ TERMINAL est une installation interactive pouvant accueillir jusqu'à 6 joueurs.
 ---
 
 ### Expérience vécue
-En entrant dans le grand studio, les personnes lisent le cartel sur notre projet qui a les instructions. Les joueurs devront se connecter sur le routeur et balayer le code QR pour entrer dans le jeu. Quand tous les joueurs auront appuyé sur prêt, l'écran affiche une courte intro et explique les bases en quelques secondes. La partie démarre au niveau 1, les joueurs réalisent vite qu'ils doivent communiquer, car quand ils se déplacent, une ligne permanente derrière leur opérateur devient un obstacle pour les autres. Si quelqu'un est éliminé, tout le monde recommence le niveau. Les joueurs apprennent par essais et erreurs. Plus ils avancent, plus les niveaux combinent de nouvelles mécaniques comme des portes et des obstacles qui bougent et montent en difficulté. ⁴
+En entrant dans le grand studio, les personnes lisent le cartel sur notre projet qui contient les instructions. Les joueurs devront se connecter sur le routeur et balayer le code QR pour entrer dans le jeu. Quand tous les joueurs auront appuyé sur prêt, l'écran affiche une courte intro et explique les bases en quelques secondes. La partie démarre au niveau 1, les joueurs réalisent vite qu'ils doivent communiquer, car quand ils se déplacent, une ligne permanente derrière leur opérateur devient un obstacle pour les autres. Si quelqu'un est éliminé, tout le monde recommence le niveau. Les joueurs apprennent par essais et erreurs. Plus ils avancent, plus les niveaux combinent de nouvelles mécaniques comme des portes et des obstacles qui bougent et montent en difficulté. ⁴
 
 ---
 
 ### Ce qui m'a plu, m'a donné des idées
-J'aime la simplicité du dispositif. Les instructions sont intuitif et très facile à suivre et j'ai trouvé le jeu amusant.
+J'aime la simplicité du dispositif. Les instructions sont intuitives et très faciles à suivre et j'ai trouvé le jeu amusant.
 
 ### Aspect que je ne souhaiterais pas retenir pour mes propres créations ou que vous feriez autrement
-Je n'ai rien vraiment trouver que je n'ai pas apprecié ou que je changerais. Je pense que le dispositif a été bien éxécuté.
+Je n'ai rien vraiment trouvé que je n'ai pas apprécié ou que je changerais. Je pense que le dispositif a été bien exécuté.
 
 ---
 

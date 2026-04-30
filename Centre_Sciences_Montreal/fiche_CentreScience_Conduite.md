@@ -41,7 +41,7 @@
 ![Pancarte](media/affiche_dispositif.jpg)
 
 ### Description du dispositif
-L'apprentissage par renforcement est un des nombreux outils utilisés par Ubisoft pour entrainer des intelligences artificielles. L'idée est de récompenser les bons comportements et décourager les mauvais. Est-ce que ça te rappelle quelque chose? ¹
+L'apprentissage par renforcement est un des nombreux outils utilisés par Ubisoft pour entraîner des intelligences artificielles. L'idée est de récompenser les bons comportements et décourager les mauvais. Est-ce que ça te rappelle quelque chose? ¹
 
 
 ### Type d'installation
@@ -52,7 +52,7 @@ L'apprentissage par renforcement est un des nombreux outils utilisés par Ubisof
 ---
 
 ### Fonction du dispositif multimédia
-Le but du dispositif est d'approfondir sur l'importance de conduire de façon sécuritaire. En choisissant des options plus rapides et risquées, la voiture rentre en collision avec le monde et cause des accidents.
+Le but du dispositif est d'approfondir la réflexion sur l'importance de conduire de façon sécuritaire. En choisissant des options plus rapides et risquées, la voiture entre en collision avec son environnement et cause des accidents.
 
 ---
 
@@ -75,16 +75,16 @@ Le but du dispositif est d'approfondir sur l'importance de conduire de façon s�
 ---
 
 ### Expérience vécue
-On rentre dans une salle sombre. Quelques lumières sont dans la salle pour luminer quelques coins de la salle. Il y a deux écrans, un tactile pour l'utilisateur. L'utilisateur peut manier cet écran tactile pour définir les paramètres que la voiture dans la simulation va entreprendre. On voit ainsi les mouvements de la voiture selon ce que l'utilisateur a choisi.
+On entre dans une salle sombre. Quelques lumières sont dans la salle pour illuminer certains coins de la salle. Il y a deux écrans, un tactile pour l'utilisateur. L'utilisateur peut manipuler cet écran tactile pour définir les paramètres que la voiture dans la simulation adoptera. On voit ainsi les mouvements de la voiture selon ce que l'utilisateur a choisi.
 
 ---
 
 ### Ce qui m'a plu, m'a donné des idées
-J'ai aimé la présentation ou bien la mise en place des éléments. Le parcours de l'utilisateur est positivement intuitif. À cause que la luminosité est contrôlé, les écrans sont bien visibles.
+J'ai aimé la présentation et la mise en place des éléments. Le parcours de l'utilisateur est positivement intuitif. Comme que la luminosité est contrôlée, les écrans sont bien visibles.
 
 
 ### Aspect que je ne souhaiterais pas retenir pour mes propres créations ou que vous feriez autrement
-Desfois, des paramètres sur l'écran tactile n'étaient pas faciles à comprendre, car on ne savait pas c'était quoi le résultat qu'on s'attendait à, alors peut-être des instructions ou des définitions quelque part.
+Parfois, des paramètres sur l'écran tactile n'étaient pas faciles à comprendre, car on ne savait pas c'était quoi le résultat était attendu, alors peut-être des instructions ou des définitions quelque part.
 
 ---
 
